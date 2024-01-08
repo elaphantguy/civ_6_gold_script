@@ -1,0 +1,1382 @@
+Turn 2, Enacting Deal id 1012 for player 1 and 4
+, Enacting Deal Item ID 2, from player 1, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 2, Removing expired Deal Items from id 1012 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 1, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 2, Enacting Deal id 1013 for player 2 and 4
+, Enacting Deal Item ID 2, from player 2, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 6, duration 0
+Turn 2, Removing expired Deal Items from id 1013 for player 2 and 4
+, Removing expired Deal Item ID 2, from player 2, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 6, duration 0
+Turn 3, Enacting Deal id 1014 for player 4 and 12
+, Enacting Deal Item ID 2, from player 12, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 3, Removing expired Deal Items from id 1014 for player 4 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 3, Enacting Deal id 1015 for player 13 and 10
+, Enacting Deal Item ID 2, from player 10, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 3, Removing expired Deal Items from id 1015 for player 13 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 4, Enacting Deal id 1016 for player 13 and 3
+, Enacting Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 4, Removing expired Deal Items from id 1016 for player 13 and 3
+, Removing expired Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 4, Enacting Deal id 1017 for player 3 and 11
+, Enacting Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 4, Removing expired Deal Items from id 1017 for player 3 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 4, Enacting Deal id 1018 for player 3 and 7
+, Enacting Deal Item ID 2, from player 7, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 10, duration 0
+Turn 4, Removing expired Deal Items from id 1018 for player 3 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 10, duration 0
+Turn 5, Enacting Deal id 1019 for player 0 and 12
+, Enacting Deal Item ID 2, from player 12, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 10, duration 0
+Turn 5, Removing expired Deal Items from id 1019 for player 0 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 10, duration 0
+Turn 5, Enacting Deal id 1020 for player 13 and 9
+, Enacting Deal Item ID 2, from player 9, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 5, Removing expired Deal Items from id 1020 for player 13 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 6, Enacting Deal id 1021 for player 4 and 6
+, Enacting Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 6, Removing expired Deal Items from id 1021 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 7, Enacting Deal id 1022 for player 4 and 6
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 18, duration 0
+Turn 7, Removing expired Deal Items from id 1022 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 18, duration 0
+Turn 8, Enacting Deal id 1023 for player 7 and 9
+, Enacting Deal Item ID 2, from player 9, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 33, duration 0
+Turn 8, Removing expired Deal Items from id 1023 for player 7 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 33, duration 0
+Turn 8, Enacting Deal id 1024 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 8, Removing expired Deal Items from id 1024 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 8, Enacting Deal id 1025 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 8, Removing expired Deal Items from id 1025 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 8, Enacting Deal id 1026 for player 7 and 11
+, Enacting Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 8, Removing expired Deal Items from id 1026 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 9, Enacting Deal id 1027 for player 4 and 6
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 21, duration 0
+Turn 9, Removing expired Deal Items from id 1027 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 21, duration 0
+Turn 9, Enacting Deal id 1028 for player 6 and 0
+, Enacting Deal Item ID 2, from player 0, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 9, Removing expired Deal Items from id 1028 for player 6 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 9, Enacting Deal id 1029 for player 6 and 12
+, Enacting Deal Item ID 2, from player 12, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 24, duration 0
+Turn 9, Removing expired Deal Items from id 1029 for player 6 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 24, duration 0
+Turn 10, Enacting Deal id 1030 for player 12 and 6
+, Enacting Deal Item ID 2, from player 6, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 48, duration 0
+Turn 10, Removing expired Deal Items from id 1030 for player 12 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 48, duration 0
+Turn 10, Enacting Deal id 1031 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 44, duration 0
+Turn 10, Removing expired Deal Items from id 1031 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 44, duration 0
+Turn 10, Enacting Deal id 1032 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 10, Removing expired Deal Items from id 1032 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 10, Enacting Deal id 1033 for player 5 and 1
+, Enacting Deal Item ID 2, from player 1, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 10, Removing expired Deal Items from id 1033 for player 5 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 10, Enacting Deal id 1034 for player 5 and 2
+, Enacting Deal Item ID 2, from player 2, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 10, Removing expired Deal Items from id 1034 for player 5 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 11, Enacting Deal id 1035 for player 3 and 10
+, Enacting Deal Item ID 2, from player 10, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 38, duration 0
+Turn 11, Removing expired Deal Items from id 1035 for player 3 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 38, duration 0
+Turn 11, Enacting Deal id 1036 for player 8 and 3
+, Enacting Deal Item ID 2, from player 8, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 11, Removing expired Deal Items from id 1036 for player 8 and 3
+, Removing expired Deal Item ID 2, from player 8, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 11, Enacting Deal id 1037 for player 4 and 5
+, Enacting Deal Item ID 2, from player 5, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 21, duration 0
+Turn 11, Removing expired Deal Items from id 1037 for player 4 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 21, duration 0
+Turn 11, Enacting Deal id 1038 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 11, Removing expired Deal Items from id 1038 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 11, Enacting Deal id 1039 for player 4 and 2
+, Enacting Deal Item ID 2, from player 2, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 11, Removing expired Deal Items from id 1039 for player 4 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 11, Enacting Deal id 1040 for player 12 and 4
+, Enacting Deal Item ID 2, from player 12, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 9, duration 0
+Turn 11, Removing expired Deal Items from id 1040 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 12, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 9, duration 0
+Turn 13, Enacting Deal id 1041 for player 13 and 7
+, Enacting Deal Item ID 2, from player 7, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 13, Removing expired Deal Items from id 1041 for player 13 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 13, Enacting Deal id 1042 for player 4 and 5
+, Enacting Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 50, duration 0
+Turn 13, Removing expired Deal Items from id 1042 for player 4 and 5
+, Removing expired Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 50, duration 0
+Turn 13, Enacting Deal id 1043 for player 5 and 0
+, Enacting Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 13, Removing expired Deal Items from id 1043 for player 5 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 14, Enacting Deal id 1044 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 14, Removing expired Deal Items from id 1044 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 12, duration 0
+Turn 15, Enacting Deal id 1045 for player 0 and 5
+, Enacting Deal Item ID 2, from player 5, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 15, Removing expired Deal Items from id 1045 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 17, Enacting Deal id 1046 for player 8 and 11
+, Enacting Deal Item ID 2, from player 11, to player 8, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+Turn 17, Enacting Deal id 1047 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 17, Removing expired Deal Items from id 1047 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 17, Enacting Deal id 1048 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 30, duration 0
+Turn 17, Removing expired Deal Items from id 1048 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 30, duration 0
+Turn 17, Enacting Deal id 1049 for player 7 and 10
+, Enacting Deal Item ID 2, from player 10, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 11, duration 0
+Turn 17, Removing expired Deal Items from id 1049 for player 7 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 11, duration 0
+Turn 18, Enacting Deal id 1050 for player 10 and 3
+, Enacting Deal Item ID 2, from player 3, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 18, Removing expired Deal Items from id 1050 for player 10 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 18, Enacting Deal id 1051 for player 6 and 4
+, Enacting Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 26, duration 0
+Turn 18, Removing expired Deal Items from id 1051 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 26, duration 0
+Turn 19, Enacting Deal id 1052 for player 8 and 11
+, Enacting Deal Item ID 2, from player 11, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 19, Removing expired Deal Items from id 1052 for player 8 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 19, Enacting Deal id 1053 for player 6 and 5
+, Enacting Deal Item ID 2, from player 5, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 19, Removing expired Deal Items from id 1053 for player 6 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 19, Enacting Deal id 1054 for player 8 and 9
+, Enacting Deal Item ID 2, from player 9, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 19, Removing expired Deal Items from id 1054 for player 8 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 19, Enacting Deal id 1055 for player 8 and 13
+, Enacting Deal Item ID 2, from player 13, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 19, Removing expired Deal Items from id 1055 for player 8 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 19, Enacting Deal id 1056 for player 12 and 0
+, Enacting Deal Item ID 2, from player 0, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 19, Removing expired Deal Items from id 1056 for player 12 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 19, Enacting Deal id 1057 for player 8 and 7
+, Enacting Deal Item ID 2, from player 7, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 11, duration 0
+Turn 19, Removing expired Deal Items from id 1057 for player 8 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 11, duration 0
+Turn 20, Enacting Deal id 1058 for player 10 and 8
+, Enacting Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 18, duration 0
+Turn 20, Removing expired Deal Items from id 1058 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 18, duration 0
+Turn 20, Enacting Deal id 1059 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 20, Removing expired Deal Items from id 1059 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 20, Enacting Deal id 1060 for player 1 and 0
+, Enacting Deal Item ID 2, from player 0, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 20, Removing expired Deal Items from id 1060 for player 1 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 20, Enacting Deal id 1061 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 20, Removing expired Deal Items from id 1061 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 21, Enacting Deal id 1062 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 4, duration 0
+Turn 21, Removing expired Deal Items from id 1062 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 4, duration 0
+Turn 21, Enacting Deal id 1063 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type RESOURCE_DIAMONDS, subType 0 (), value type RESOURCE_DIAMONDS, amount 1, duration 30
+Turn 21, Enacting Deal id 1064 for player 7 and 11
+, Enacting Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 21, Removing expired Deal Items from id 1064 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 21, Enacting Deal id 1065 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 21, Removing expired Deal Items from id 1065 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 21, Enacting Deal id 1066 for player 12 and 6
+, Enacting Deal Item ID 2, from player 6, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 21, Removing expired Deal Items from id 1066 for player 12 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 21, Enacting Deal id 1067 for player 1 and 0
+, Enacting Deal Item ID 2, from player 0, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 32, duration 0
+Turn 21, Removing expired Deal Items from id 1067 for player 1 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 32, duration 0
+Turn 22, Enacting Deal id 1068 for player 7 and 3
+, Enacting Deal Item ID 2, from player 3, to player 7, type GreatWork, subType 147 (), value type GREATWORK_RELIC_5, amount 0, duration 0
+Turn 22, Removing expired Deal Items from id 1068 for player 7 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 7, type GreatWork, subType 147 (), value type , amount 0, duration 0
+Turn 22, Enacting Deal id 1069 for player 13 and 9
+, Enacting Deal Item ID 2, from player 9, to player 13, type GreatWork, subType 148 (), value type GREATWORK_RELIC_6, amount 0, duration 0
+Turn 22, Removing expired Deal Items from id 1069 for player 13 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 13, type GreatWork, subType 148 (), value type , amount 0, duration 0
+Turn 22, Enacting Deal id 1070 for player 4 and 5
+, Enacting Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 22, Removing expired Deal Items from id 1070 for player 4 and 5
+, Removing expired Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 22, Enacting Deal id 1071 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 22, Removing expired Deal Items from id 1071 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 22, Enacting Deal id 1072 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 19, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 22, Removing expired Deal Items from id 1072 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 19, duration 0
+, Removing expired Deal Item ID 3, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 23, Enacting Deal id 1073 for player 10 and 3
+, Enacting Deal Item ID 2, from player 3, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 28, duration 0
+Turn 23, Removing expired Deal Items from id 1073 for player 10 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 28, duration 0
+Turn 23, Enacting Deal id 1074 for player 12 and 0
+, Enacting Deal Item ID 2, from player 0, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 23, Removing expired Deal Items from id 1074 for player 12 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 23, Enacting Deal id 1075 for player 8 and 11
+, Enacting Deal Item ID 2, from player 11, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 23, Removing expired Deal Items from id 1075 for player 8 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 23, Enacting Deal id 1076 for player 8 and 10
+, Enacting Deal Item ID 2, from player 10, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 23, Removing expired Deal Items from id 1076 for player 8 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 24, Enacting Deal id 1077 for player 10 and 8
+, Enacting Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 19, duration 0
+Turn 24, Removing expired Deal Items from id 1077 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 19, duration 0
+Turn 24, Enacting Deal id 1078 for player 10 and 9
+, Enacting Deal Item ID 2, from player 9, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 24, Removing expired Deal Items from id 1078 for player 10 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 24, Enacting Deal id 1079 for player 2 and 12
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 24, Removing expired Deal Items from id 1079 for player 2 and 12
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 23, duration 0
+Turn 24, Enacting Deal id 1080 for player 11 and 3
+, Enacting Deal Item ID 2, from player 3, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 24, Removing expired Deal Items from id 1080 for player 11 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 14, duration 0
+Turn 24, Enacting Deal id 1081 for player 10 and 11
+, Enacting Deal Item ID 2, from player 10, to player 11, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 24, Removing expired Deal Items from id 1081 for player 10 and 11
+, Removing expired Deal Item ID 2, from player 10, to player 11, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 24, Enacting Deal id 1082 for player 10 and 13
+, Enacting Deal Item ID 2, from player 10, to player 13, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 15, duration 0
+Turn 24, Removing expired Deal Items from id 1082 for player 10 and 13
+, Removing expired Deal Item ID 2, from player 10, to player 13, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 15, duration 0
+Turn 25, Enacting Deal id 1083 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 8, duration 0
+Turn 25, Removing expired Deal Items from id 1083 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 8, duration 0
+Turn 25, Enacting Deal id 1084 for player 3 and 7
+, Enacting Deal Item ID 2, from player 7, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 25, Removing expired Deal Items from id 1084 for player 3 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 7, duration 0
+Turn 25, Enacting Deal id 1085 for player 3 and 13
+, Enacting Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 6, duration 0
+Turn 25, Removing expired Deal Items from id 1085 for player 3 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 6, duration 0
+Turn 25, Enacting Deal id 1086 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+Turn 25, Enacting Deal id 1087 for player 4 and 0
+, Enacting Deal Item ID 2, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 25, Removing expired Deal Items from id 1087 for player 4 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 41, duration 0
+Turn 25, Enacting Deal id 1088 for player 12 and 6
+, Enacting Deal Item ID 2, from player 6, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 7, duration 0
+Turn 25, Removing expired Deal Items from id 1088 for player 12 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 7, duration 0
+Turn 25, Enacting Deal id 1089 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 25, Removing expired Deal Items from id 1089 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 25, Enacting Deal id 1090 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 25, Removing expired Deal Items from id 1090 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 26, Enacting Deal id 1091 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 26, Removing expired Deal Items from id 1091 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 26, Enacting Deal id 1092 for player 1 and 2
+, Enacting Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 26, Removing expired Deal Items from id 1092 for player 1 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 26, Enacting Deal id 1093 for player 8 and 3
+, Enacting Deal Item ID 2, from player 3, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 26, Removing expired Deal Items from id 1093 for player 8 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 8, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 27, Enacting Deal id 1094 for player 3 and 9
+, Enacting Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 54, duration 0
+Turn 27, Removing expired Deal Items from id 1094 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 3, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 54, duration 0
+Turn 27, Enacting Deal id 1095 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 27, Removing expired Deal Items from id 1095 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 27, Enacting Deal id 1096 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 27, Removing expired Deal Items from id 1096 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 27, Enacting Deal id 1097 for player 13 and 11
+, Enacting Deal Item ID 2, from player 11, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 27, Removing expired Deal Items from id 1097 for player 13 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 13, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 27, Enacting Deal id 1098 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 27, Removing expired Deal Items from id 1098 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 27, Enacting Deal id 1099 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 27, Removing expired Deal Items from id 1099 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 27, Enacting Deal id 1100 for player 0 and 12
+, Enacting Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 27, Removing expired Deal Items from id 1100 for player 0 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 28, Enacting Deal id 1101 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Removing expired Deal Items from id 1101 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Enacting Deal id 1102 for player 0 and 12
+, Enacting Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Removing expired Deal Items from id 1102 for player 0 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Enacting Deal id 1103 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 28, Removing expired Deal Items from id 1103 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 28, Enacting Deal id 1104 for player 0 and 5
+, Enacting Deal Item ID 2, from player 5, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Removing expired Deal Items from id 1104 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 28, Enacting Deal id 1105 for player 7 and 10
+, Enacting Deal Item ID 2, from player 10, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 31, duration 0
+Turn 28, Removing expired Deal Items from id 1105 for player 7 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 31, duration 0
+Turn 28, Enacting Deal id 1106 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 28, Removing expired Deal Items from id 1106 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 16, duration 0
+Turn 28, Enacting Deal id 1107 for player 7 and 11
+, Enacting Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 27, duration 0
+Turn 28, Removing expired Deal Items from id 1107 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 27, duration 0
+Turn 29, Enacting Deal id 1108 for player 7 and 3
+, Enacting Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 29, Removing expired Deal Items from id 1108 for player 7 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 29, Enacting Deal id 1109 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 29, Removing expired Deal Items from id 1109 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 29, Enacting Deal id 1110 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 29, Removing expired Deal Items from id 1110 for player 9 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 29, Enacting Deal id 1111 for player 0 and 5
+, Enacting Deal Item ID 2, from player 5, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 29, Removing expired Deal Items from id 1111 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 29, Enacting Deal id 1112 for player 9 and 13
+, Enacting Deal Item ID 2, from player 13, to player 9, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+Turn 29, Enacting Deal id 1113 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 29, Removing expired Deal Items from id 1113 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 30, Enacting Deal id 1114 for player 5 and 0
+, Enacting Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 30, Removing expired Deal Items from id 1114 for player 5 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 17, duration 0
+Turn 30, Enacting Deal id 1115 for player 6 and 1
+, Enacting Deal Item ID 2, from player 1, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 30, Removing expired Deal Items from id 1115 for player 6 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 30, Enacting Deal id 1116 for player 1 and 2
+, Enacting Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 30, Removing expired Deal Items from id 1116 for player 1 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 30, Enacting Deal id 1117 for player 6 and 2
+, Enacting Deal Item ID 3, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 30, Removing expired Deal Items from id 1117 for player 6 and 2
+, Removing expired Deal Item ID 3, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 30, Enacting Deal id 1118 for player 6 and 4
+, Enacting Deal Item ID 2, from player 6, to player 4, type RESOURCE_SILK, subType 0 (), value type RESOURCE_SILK, amount 1, duration 30
+Turn 30, Enacting Deal id 1119 for player 0 and 12
+, Enacting Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 30, Removing expired Deal Items from id 1119 for player 0 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 30, Enacting Deal id 1120 for player 10 and 13
+, Enacting Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 20, duration 0
+Turn 30, Removing expired Deal Items from id 1120 for player 10 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 20, duration 0
+Turn 31, Enacting Deal id 1121 for player 6 and 5
+, Enacting Deal Item ID 2, from player 5, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Removing expired Deal Items from id 1121 for player 6 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Enacting Deal id 1122 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Removing expired Deal Items from id 1122 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Enacting Deal id 1123 for player 12 and 6
+, Enacting Deal Item ID 2, from player 6, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 18, duration 0
+Turn 31, Removing expired Deal Items from id 1123 for player 12 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 18, duration 0
+Turn 31, Enacting Deal id 1124 for player 4 and 6
+, Enacting Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 31, Removing expired Deal Items from id 1124 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 31, Enacting Deal id 1125 for player 6 and 2
+, Enacting Deal Item ID 2, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Removing expired Deal Items from id 1125 for player 6 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 31, Enacting Deal id 1126 for player 6 and 12
+, Enacting Deal Item ID 2, from player 12, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 31, Removing expired Deal Items from id 1126 for player 6 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 32, Enacting Deal id 1127 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 27, duration 0
+Turn 32, Removing expired Deal Items from id 1127 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 27, duration 0
+Turn 32, Enacting Deal id 1128 for player 5 and 6
+, Enacting Deal Item ID 2, from player 5, to player 6, type RESOURCE_HONEY, subType 0 (), value type RESOURCE_HONEY, amount 1, duration 30
+Turn 32, Enacting Deal id 1129 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 75, duration 0
+Turn 32, Removing expired Deal Items from id 1129 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 75, duration 0
+Turn 32, Enacting Deal id 1130 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 32, Removing expired Deal Items from id 1130 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 32, Enacting Deal id 1131 for player 3 and 10
+, Enacting Deal Item ID 2, from player 10, to player 3, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 32, Removing expired Deal Items from id 1131 for player 3 and 10
+, Removing expired Deal Item ID 2, from player 10, to player 3, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 33, Enacting Deal id 1132 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 33, Removing expired Deal Items from id 1132 for player 9 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 33, Enacting Deal id 1133 for player 9 and 13
+, Enacting Deal Item ID 2, from player 13, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 7, duration 0
+Turn 33, Removing expired Deal Items from id 1133 for player 9 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 7, duration 0
+Turn 33, Enacting Deal id 1134 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Removing expired Deal Items from id 1134 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Enacting Deal id 1135 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Removing expired Deal Items from id 1135 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Enacting Deal id 1136 for player 6 and 2
+, Enacting Deal Item ID 2, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Removing expired Deal Items from id 1136 for player 6 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 6, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Enacting Deal id 1137 for player 4 and 6
+, Enacting Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 33, Removing expired Deal Items from id 1137 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 33, Enacting Deal id 1138 for player 10 and 7
+, Enacting Deal Item ID 2, from player 7, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Removing expired Deal Items from id 1138 for player 10 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 33, Enacting Deal id 1139 for player 2 and 12
+, Enacting Deal Item ID 2, from player 2, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+Turn 33, Removing expired Deal Items from id 1139 for player 2 and 12
+, Removing expired Deal Item ID 2, from player 2, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+Turn 33, Enacting Deal id 1140 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 33, Removing expired Deal Items from id 1140 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 34, Enacting Deal id 1141 for player 7 and 8
+, Enacting Deal Item ID 2, from player 7, to player 8, type RESOURCE_SUGAR, subType 0 (), value type RESOURCE_SUGAR, amount 1, duration 30
+Turn 34, Enacting Deal id 1142 for player 7 and 9
+, Enacting Deal Item ID 2, from player 7, to player 9, type RESOURCE_SUGAR, subType 0 (), value type RESOURCE_SUGAR, amount 1, duration 30
+Turn 34, Enacting Deal id 1143 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 9, duration 0
+Turn 34, Removing expired Deal Items from id 1143 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 9, duration 0
+Turn 34, Enacting Deal id 1144 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 34, Removing expired Deal Items from id 1144 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 34, Enacting Deal id 1145 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 34, Removing expired Deal Items from id 1145 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 34, Enacting Deal id 1146 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 34, Removing expired Deal Items from id 1146 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 34, Enacting Deal id 1147 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 34, Removing expired Deal Items from id 1147 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 35, Enacting Deal id 1148 for player 12 and 6
+, Enacting Deal Item ID 2, from player 6, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 35, Removing expired Deal Items from id 1148 for player 12 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 35, Enacting Deal id 1149 for player 1 and 6
+, Enacting Deal Item ID 2, from player 6, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 35, Removing expired Deal Items from id 1149 for player 1 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 1, duration 0
+Turn 36, Enacting Deal id 1150 for player 4 and 5
+, Enacting Deal Item ID 2, from player 4, to player 5, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 36, Removing expired Deal Items from id 1150 for player 4 and 5
+, Removing expired Deal Item ID 2, from player 4, to player 5, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 36, Enacting Deal id 1151 for player 7 and 11
+, Enacting Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Removing expired Deal Items from id 1151 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Enacting Deal id 1152 for player 10 and 13
+, Enacting Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Removing expired Deal Items from id 1152 for player 10 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Enacting Deal id 1153 for player 12 and 5
+, Enacting Deal Item ID 2, from player 12, to player 5, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Removing expired Deal Items from id 1153 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 12, to player 5, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 36, Enacting Deal id 1154 for player 10 and 8
+, Enacting Deal Item ID 2, from player 8, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 36, Removing expired Deal Items from id 1154 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 36, Enacting Deal id 1155 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 36, Removing expired Deal Items from id 1155 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 36, Enacting Deal id 1156 for player 9 and 3
+, Enacting Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 36, Removing expired Deal Items from id 1156 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 36, Enacting Deal id 1157 for player 10 and 7
+, Enacting Deal Item ID 2, from player 7, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 36, Removing expired Deal Items from id 1157 for player 10 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 37, Enacting Deal id 1158 for player 10 and 9
+, Enacting Deal Item ID 2, from player 9, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 3, duration 0
+Turn 37, Removing expired Deal Items from id 1158 for player 10 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 3, duration 0
+Turn 37, Enacting Deal id 1159 for player 0 and 12
+, Enacting Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 37, Removing expired Deal Items from id 1159 for player 0 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 37, Enacting Deal id 1160 for player 7 and 3
+, Enacting Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+, Enacting Deal Item ID 3, from player 7, to player 3, type RESOURCE_SUGAR, subType 0 (), value type RESOURCE_SUGAR, amount 1, duration 30
+Turn 37, Removing expired Deal Items from id 1160 for player 7 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 37, Enacting Deal id 1161 for player 7 and 11
+, Enacting Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 37, Removing expired Deal Items from id 1161 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 37, Enacting Deal id 1162 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+, Enacting Deal Item ID 3, from player 8, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 37, Removing expired Deal Items from id 1162 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+, Removing expired Deal Item ID 3, from player 8, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 37, Enacting Deal id 1163 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 37, Removing expired Deal Items from id 1163 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 37, Enacting Deal id 1164 for player 4 and 6
+, Enacting Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 37, Removing expired Deal Items from id 1164 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 6, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 35, duration 0
+Turn 37, Enacting Deal id 1165 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 24, duration 0
+Turn 37, Removing expired Deal Items from id 1165 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 24, duration 0
+Turn 37, Enacting Deal id 1166 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 37, Removing expired Deal Items from id 1166 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 22, duration 0
+Turn 38, Enacting Deal id 1167 for player 6 and 5
+, Enacting Deal Item ID 2, from player 5, to player 6, type RESOURCE_MARBLE, subType 0 (), value type RESOURCE_MARBLE, amount 1, duration 30
+Turn 39, Enacting Deal id 1168 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 30, duration 0
+Turn 39, Removing expired Deal Items from id 1168 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 30, duration 0
+Turn 39, Enacting Deal id 1169 for player 10 and 9
+, Enacting Deal Item ID 2, from player 9, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 39, Removing expired Deal Items from id 1169 for player 10 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 39, Enacting Deal id 1170 for player 3 and 10
+, Enacting Deal Item ID 3, from player 3, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 39, Removing expired Deal Items from id 1170 for player 3 and 10
+, Removing expired Deal Item ID 3, from player 3, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 39, Enacting Deal id 1171 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 39, Removing expired Deal Items from id 1171 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 1, duration 0
+Turn 39, Enacting Deal id 1172 for player 13 and 10
+, Enacting Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 39, Removing expired Deal Items from id 1172 for player 13 and 10
+, Removing expired Deal Item ID 2, from player 13, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 10, duration 0
+Turn 40, Enacting Deal id 1173 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 24, duration 0
+Turn 40, Removing expired Deal Items from id 1173 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 24, duration 0
+Turn 40, Enacting Deal id 1174 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 40, Removing expired Deal Items from id 1174 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 40, Enacting Deal id 1175 for player 2 and 0
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 40, Removing expired Deal Items from id 1175 for player 2 and 0
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 41, Enacting Deal id 1176 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 356, duration 0
+Turn 41, Removing expired Deal Items from id 1176 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 356, duration 0
+Turn 41, Enacting Deal id 1177 for player 2 and 5
+, Enacting Deal Item ID 2, from player 5, to player 2, type RESOURCE_COCOA, subType 0 (), value type RESOURCE_COCOA, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 2, to player 5, type RESOURCE_DIAMONDS, subType 0 (), value type RESOURCE_DIAMONDS, amount 1, duration 30
+, Enacting Deal Item ID 4, from player 5, to player 2, type RESOURCE_HONEY, subType 0 (), value type RESOURCE_HONEY, amount 1, duration 30
+Turn 41, Enacting Deal id 1178 for player 2 and 12
+, Enacting Deal Item ID 2, from player 12, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 12, type RESOURCE_TRUFFLES, subType 0 (), value type RESOURCE_TRUFFLES, amount 1, duration 30
+Turn 41, Removing expired Deal Items from id 1178 for player 2 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+Turn 42, Enacting Deal id 1179 for player 0 and 5
+, Enacting Deal Item ID 2, from player 0, to player 5, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 13, duration 0
+Turn 42, Removing expired Deal Items from id 1179 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 0, to player 5, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 13, duration 0
+Turn 42, Enacting Deal id 1180 for player 13 and 7
+, Enacting Deal Item ID 2, from player 7, to player 13, type RESOURCE_OLIVES, subType 0 (), value type RESOURCE_OLIVES, amount 1, duration 30
+Turn 42, Enacting Deal id 1181 for player 10 and 13
+, Enacting Deal Item ID 2, from player 13, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+Turn 42, Removing expired Deal Items from id 1181 for player 10 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+Turn 42, Enacting Deal id 1182 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 4, type RESOURCE_CITRUS, subType 0 (), value type RESOURCE_CITRUS, amount 1, duration 30
+, Enacting Deal Item ID 4, from player 1, to player 4, type RESOURCE_INCENSE, subType 0 (), value type RESOURCE_INCENSE, amount 1, duration 30
+Turn 42, Removing expired Deal Items from id 1182 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 42, Enacting Deal id 1183 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 42, Removing expired Deal Items from id 1183 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 43, Enacting Deal id 1184 for player 6 and 0
+, Enacting Deal Item ID 2, from player 6, to player 0, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 0, to player 6, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 43, Removing expired Deal Items from id 1184 for player 6 and 0
+, Removing expired Deal Item ID 2, from player 6, to player 0, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 0, to player 6, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 43, Enacting Deal id 1185 for player 10 and 11
+, Enacting Deal Item ID 2, from player 11, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 13, duration 0
+, Enacting Deal Item ID 3, from player 11, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 43, Removing expired Deal Items from id 1185 for player 10 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 13, duration 0
+, Removing expired Deal Item ID 3, from player 11, to player 10, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 43, Enacting Deal id 1186 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 2, duration 0
+Turn 43, Removing expired Deal Items from id 1186 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 2, duration 0
+Turn 43, Enacting Deal id 1187 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 43, Removing expired Deal Items from id 1187 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 43, Enacting Deal id 1188 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 249, duration 0
+Turn 43, Removing expired Deal Items from id 1188 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 249, duration 0
+Turn 44, Enacting Deal id 1189 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 23, duration 0
+Turn 44, Removing expired Deal Items from id 1189 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 23, duration 0
+Turn 44, Enacting Deal id 1190 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 44, Removing expired Deal Items from id 1190 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 44, Enacting Deal id 1191 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+, Enacting Deal Item ID 3, from player 3, to player 9, type RESOURCE_DIAMONDS, subType 0 (), value type RESOURCE_DIAMONDS, amount 1, duration 30
+Turn 44, Removing expired Deal Items from id 1191 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 11, duration 0
+Turn 44, Enacting Deal id 1192 for player 4 and 5
+, Enacting Deal Item ID 2, from player 5, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 44, Removing expired Deal Items from id 1192 for player 4 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+Turn 44, Enacting Deal id 1193 for player 12 and 4
+, Enacting Deal Item ID 2, from player 12, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 22, duration 0
+Turn 44, Removing expired Deal Items from id 1193 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 12, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 22, duration 0
+Turn 44, Enacting Deal id 1194 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Enacting Deal Item ID 3, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 107, duration 0
+Turn 44, Removing expired Deal Items from id 1194 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Removing expired Deal Item ID 3, from player 0, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 107, duration 0
+Turn 44, Enacting Deal id 1195 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 161, duration 0
+Turn 44, Removing expired Deal Items from id 1195 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 161, duration 0
+Turn 44, Enacting Deal id 1196 for player 1 and 2
+, Enacting Deal Item ID 2, from player 2, to player 1, type RESOURCE_TRUFFLES, subType 0 (), value type RESOURCE_TRUFFLES, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 1, to player 2, type RESOURCE_INCENSE, subType 0 (), value type RESOURCE_INCENSE, amount 1, duration 30
+Turn 45, Enacting Deal id 1197 for player 4 and 2
+, Enacting Deal Item ID 2, from player 4, to player 2, type GreatWork, subType 156 (), value type GREATWORK_RELIC_14, amount 0, duration 0
+Turn 45, Removing expired Deal Items from id 1197 for player 4 and 2
+, Removing expired Deal Item ID 2, from player 4, to player 2, type GreatWork, subType 156 (), value type , amount 0, duration 0
+Turn 45, Enacting Deal id 1198 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 16, duration 0
+Turn 45, Removing expired Deal Items from id 1198 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 16, duration 0
+Turn 45, Enacting Deal id 1199 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 45, Removing expired Deal Items from id 1199 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 45, Enacting Deal id 1200 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 45, Removing expired Deal Items from id 1200 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 45, Enacting Deal id 1201 for player 4 and 2
+, Enacting Deal Item ID 2, from player 2, to player 4, type RESOURCE_GYPSUM, subType 0 (), value type RESOURCE_GYPSUM, amount 1, duration 30
+Turn 45, Enacting Deal id 1202 for player 4 and 1
+, Enacting Deal Item ID 2, from player 1, to player 4, type RESOURCE_INCENSE, subType 0 (), value type RESOURCE_INCENSE, amount 1, duration 30
+Turn 45, Enacting Deal id 1203 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 45, Removing expired Deal Items from id 1203 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 46, Enacting Deal id 1204 for player 9 and 3
+, Enacting Deal Item ID 2, from player 9, to player 3, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 3, to player 9, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 46, Removing expired Deal Items from id 1204 for player 9 and 3
+, Removing expired Deal Item ID 2, from player 9, to player 3, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 3, to player 9, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 46, Enacting Deal id 1205 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 46, Removing expired Deal Items from id 1205 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 46, Enacting Deal id 1206 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 33, duration 0
+Turn 46, Removing expired Deal Items from id 1206 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 33, duration 0
+Turn 46, Enacting Deal id 1207 for player 7 and 13
+, Enacting Deal Item ID 2, from player 7, to player 13, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 13, to player 7, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 46, Removing expired Deal Items from id 1207 for player 7 and 13
+, Removing expired Deal Item ID 2, from player 7, to player 13, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 13, to player 7, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 46, Enacting Deal id 1208 for player 4 and 5
+, Enacting Deal Item ID 2, from player 5, to player 4, type RESOURCE_HONEY, subType 0 (), value type RESOURCE_HONEY, amount 1, duration 30
+Turn 46, Enacting Deal id 1209 for player 2 and 5
+, Enacting Deal Item ID 2, from player 5, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 46, Removing expired Deal Items from id 1209 for player 2 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 46, Enacting Deal id 1210 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 46, Removing expired Deal Items from id 1210 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 2, duration 0
+Turn 46, Enacting Deal id 1211 for player 5 and 2
+, Enacting Deal Item ID 2, from player 2, to player 5, type RESOURCE_GYPSUM, subType 0 (), value type RESOURCE_GYPSUM, amount 1, duration 30
+Turn 46, Enacting Deal id 1212 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 46, Removing expired Deal Items from id 1212 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 46, Enacting Deal id 1213 for player 13 and 8
+, Enacting Deal Item ID 2, from player 13, to player 8, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 8, to player 13, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 46, Removing expired Deal Items from id 1213 for player 13 and 8
+, Removing expired Deal Item ID 2, from player 13, to player 8, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 8, to player 13, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 46, Enacting Deal id 1214 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 46, Removing expired Deal Items from id 1214 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 12, duration 0
+Turn 46, Enacting Deal id 1215 for player 7 and 9
+, Enacting Deal Item ID 2, from player 7, to player 9, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 9, to player 7, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 7, to player 9, type RESOURCE_MARBLE, subType 0 (), value type RESOURCE_MARBLE, amount 1, duration 30
+Turn 46, Removing expired Deal Items from id 1215 for player 7 and 9
+, Removing expired Deal Item ID 2, from player 7, to player 9, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 9, to player 7, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 47, Enacting Deal id 1216 for player 1 and 5
+, Enacting Deal Item ID 2, from player 1, to player 5, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 5, to player 1, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 47, Removing expired Deal Items from id 1216 for player 1 and 5
+, Removing expired Deal Item ID 2, from player 1, to player 5, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 5, to player 1, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 47, Enacting Deal id 1217 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+Turn 47, Removing expired Deal Items from id 1217 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+Turn 47, Enacting Deal id 1218 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 120, duration 0
+Turn 47, Removing expired Deal Items from id 1218 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 120, duration 0
+Turn 47, Enacting Deal id 1219 for player 10 and 8
+, Enacting Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 47, Removing expired Deal Items from id 1219 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 25, duration 0
+Turn 47, Enacting Deal id 1220 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Removing expired Deal Items from id 1220 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Enacting Deal id 1221 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 160, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 16, duration 0
+, Enacting Deal Item ID 4, from player 2, to player 12, type RESOURCE_TRUFFLES, subType 0 (), value type RESOURCE_TRUFFLES, amount 1, duration 30
+Turn 47, Removing expired Deal Items from id 1221 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 160, duration 0
+, Removing expired Deal Item ID 3, from player 2, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 16, duration 0
+Turn 47, Enacting Deal id 1222 for player 4 and 6
+, Enacting Deal Item ID 2, from player 4, to player 6, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 6, to player 4, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 47, Removing expired Deal Items from id 1222 for player 4 and 6
+, Removing expired Deal Item ID 2, from player 4, to player 6, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 6, to player 4, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 47, Enacting Deal id 1223 for player 5 and 2
+, Enacting Deal Item ID 2, from player 5, to player 2, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 5, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 47, Removing expired Deal Items from id 1223 for player 5 and 2
+, Removing expired Deal Item ID 2, from player 5, to player 2, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 2, to player 5, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+Turn 47, Enacting Deal id 1224 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Removing expired Deal Items from id 1224 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Enacting Deal id 1225 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Removing expired Deal Items from id 1225 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 47, Enacting Deal id 1226 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 11, to player 9, type RESOURCE_WHALES, subType 0 (), value type RESOURCE_WHALES, amount 1, duration 30
+Turn 47, Enacting Deal id 1227 for player 8 and 11
+, Enacting Deal Item ID 2, from player 11, to player 8, type RESOURCE_WHALES, subType 0 (), value type RESOURCE_WHALES, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 11, to player 8, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+Turn 47, Enacting Deal id 1228 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 47, Removing expired Deal Items from id 1228 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 48, Enacting Deal id 1229 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+Turn 48, Removing expired Deal Items from id 1229 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+Turn 48, Enacting Deal id 1230 for player 5 and 4
+, Enacting Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 48, Removing expired Deal Items from id 1230 for player 5 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 48, Enacting Deal id 1231 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 48, Removing expired Deal Items from id 1231 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 48, Enacting Deal id 1232 for player 2 and 4
+, Enacting Deal Item ID 2, from player 2, to player 4, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 2, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 48, Removing expired Deal Items from id 1232 for player 2 and 4
+, Removing expired Deal Item ID 2, from player 2, to player 4, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 2, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 48, Enacting Deal id 1233 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 48, Removing expired Deal Items from id 1233 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 48, Enacting Deal id 1234 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 67, duration 0
+Turn 48, Removing expired Deal Items from id 1234 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 67, duration 0
+Turn 48, Enacting Deal id 1235 for player 5 and 4
+, Enacting Deal Item ID 2, from player 5, to player 4, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 5, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 48, Removing expired Deal Items from id 1235 for player 5 and 4
+, Removing expired Deal Item ID 2, from player 5, to player 4, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 5, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 48, Enacting Deal id 1236 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 138, duration 0
+Turn 48, Removing expired Deal Items from id 1236 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 138, duration 0
+Turn 48, Enacting Deal id 1237 for player 4 and 0
+, Enacting Deal Item ID 2, from player 4, to player 0, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 0, to player 4, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+Turn 48, Removing expired Deal Items from id 1237 for player 4 and 0
+, Removing expired Deal Item ID 2, from player 4, to player 0, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 0, to player 4, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+Turn 48, Enacting Deal id 1238 for player 7 and 11
+, Enacting Deal Item ID 2, from player 7, to player 11, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 11, to player 7, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+, Enacting Deal Item ID 5, from player 7, to player 11, type RESOURCE_OLIVES, subType 0 (), value type RESOURCE_OLIVES, amount 1, duration 30
+Turn 48, Removing expired Deal Items from id 1238 for player 7 and 11
+, Removing expired Deal Item ID 2, from player 7, to player 11, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 11, to player 7, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 48, Enacting Deal id 1239 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 8, duration 0
+Turn 48, Removing expired Deal Items from id 1239 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 8, duration 0
+Turn 48, Enacting Deal id 1240 for player 6 and 12
+, Enacting Deal Item ID 2, from player 12, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Enacting Deal Item ID 3, from player 6, to player 12, type RESOURCE_GYPSUM, subType 0 (), value type RESOURCE_GYPSUM, amount 1, duration 30
+Turn 48, Removing expired Deal Items from id 1240 for player 6 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 48, Enacting Deal id 1241 for player 13 and 7
+, Enacting Deal Item ID 2, from player 7, to player 13, type RESOURCE_MARBLE, subType 0 (), value type RESOURCE_MARBLE, amount 1, duration 30
+Turn 48, Enacting Deal id 1242 for player 10 and 7
+, Enacting Deal Item ID 2, from player 7, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+Turn 48, Removing expired Deal Items from id 1242 for player 10 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+Turn 49, Enacting Deal id 1243 for player 6 and 5
+, Enacting Deal Item ID 2, from player 5, to player 6, type RESOURCE_COCOA, subType 0 (), value type RESOURCE_COCOA, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 6, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 71, duration 0
+Turn 49, Removing expired Deal Items from id 1243 for player 6 and 5
+, Removing expired Deal Item ID 3, from player 6, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 71, duration 0
+Turn 49, Enacting Deal id 1244 for player 11 and 8
+, Enacting Deal Item ID 2, from player 11, to player 8, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 8, to player 11, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 49, Removing expired Deal Items from id 1244 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 11, to player 8, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 8, to player 11, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 49, Enacting Deal id 1245 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 2, duration 0
+Turn 49, Removing expired Deal Items from id 1245 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 2, duration 0
+Turn 49, Enacting Deal id 1246 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 130, duration 0
+Turn 49, Removing expired Deal Items from id 1246 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 130, duration 0
+Turn 49, Enacting Deal id 1247 for player 1 and 0
+, Enacting Deal Item ID 2, from player 1, to player 0, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 0, to player 1, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 49, Removing expired Deal Items from id 1247 for player 1 and 0
+, Removing expired Deal Item ID 2, from player 1, to player 0, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 0, to player 1, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 49, Enacting Deal id 1248 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 37, duration 0
+Turn 49, Removing expired Deal Items from id 1248 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 37, duration 0
+Turn 49, Enacting Deal id 1249 for player 1 and 2
+, Enacting Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 67, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 2, type RESOURCE_SALT, subType 0 (), value type RESOURCE_SALT, amount 1, duration 30
+Turn 49, Removing expired Deal Items from id 1249 for player 1 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 67, duration 0
+Turn 49, Enacting Deal id 1250 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 49, Removing expired Deal Items from id 1250 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 50, Enacting Deal id 1251 for player 7 and 8
+, Enacting Deal Item ID 2, from player 7, to player 8, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 8, to player 7, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 137, duration 0
+, Enacting Deal Item ID 5, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 50, Removing expired Deal Items from id 1251 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 7, to player 8, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 8, to player 7, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 137, duration 0
+, Removing expired Deal Item ID 5, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+Turn 50, Enacting Deal id 1252 for player 7 and 3
+, Enacting Deal Item ID 2, from player 7, to player 3, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 3, to player 7, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 3, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 50, Removing expired Deal Items from id 1252 for player 7 and 3
+, Removing expired Deal Item ID 2, from player 7, to player 3, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 3, to player 7, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 3, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 50, Enacting Deal id 1253 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 142, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 12, type RESOURCE_SALT, subType 0 (), value type RESOURCE_SALT, amount 1, duration 30
+, Enacting Deal Item ID 4, from player 1, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Enacting Deal Item ID 5, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 19, duration 0
+Turn 50, Removing expired Deal Items from id 1253 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 142, duration 0
+, Removing expired Deal Item ID 4, from player 1, to player 12, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Removing expired Deal Item ID 5, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 19, duration 0
+Turn 50, Enacting Deal id 1254 for player 6 and 0
+, Enacting Deal Item ID 2, from player 0, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 50, Removing expired Deal Items from id 1254 for player 6 and 0
+, Removing expired Deal Item ID 2, from player 0, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 50, Enacting Deal id 1255 for player 12 and 2
+, Enacting Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 50, Removing expired Deal Items from id 1255 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 20, duration 0
+Turn 50, Enacting Deal id 1256 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 10, duration 0
+Turn 50, Removing expired Deal Items from id 1256 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 10, duration 0
+Turn 50, Enacting Deal id 1257 for player 3 and 11
+, Enacting Deal Item ID 2, from player 3, to player 11, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 11, to player 3, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 11, to player 3, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+, Enacting Deal Item ID 5, from player 11, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 50, Removing expired Deal Items from id 1257 for player 3 and 11
+, Removing expired Deal Item ID 2, from player 3, to player 11, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 11, to player 3, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 5, from player 11, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 50, Enacting Deal id 1258 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 47, duration 0
+Turn 50, Removing expired Deal Items from id 1258 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 3, duration 0
+, Removing expired Deal Item ID 3, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 47, duration 0
+Turn 51, Enacting Deal id 1259 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 261, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 51, Removing expired Deal Items from id 1259 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 261, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 51, Enacting Deal id 1260 for player 3 and 11
+, Enacting Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 197, duration 0
+Turn 51, Removing expired Deal Items from id 1260 for player 3 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 197, duration 0
+Turn 51, Enacting Deal id 1261 for player 10 and 7
+, Enacting Deal Item ID 2, from player 7, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 8, duration 0
+Turn 51, Removing expired Deal Items from id 1261 for player 10 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 8, duration 0
+Turn 51, Enacting Deal id 1262 for player 6 and 1
+, Enacting Deal Item ID 2, from player 6, to player 1, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 6, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 1, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+, Enacting Deal Item ID 5, from player 1, to player 6, type RESOURCE_SALT, subType 0 (), value type RESOURCE_SALT, amount 1, duration 30
+Turn 51, Removing expired Deal Items from id 1262 for player 6 and 1
+, Removing expired Deal Item ID 2, from player 6, to player 1, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 1, to player 6, type LOC_ALLIANCE_ECONOMIC, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_ECONOMIC, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 1, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+Turn 51, Enacting Deal id 1263 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 51, Removing expired Deal Items from id 1263 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 51, Enacting Deal id 1264 for player 7 and 13
+, Enacting Deal Item ID 2, from player 13, to player 7, type RESOURCE_WHALES, subType 0 (), value type RESOURCE_WHALES, amount 1, duration 30
+Turn 51, Enacting Deal id 1265 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 63, duration 0
+Turn 51, Removing expired Deal Items from id 1265 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 63, duration 0
+Turn 52, Enacting Deal id 1266 for player 5 and 4
+, Enacting Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 150, duration 0
+Turn 52, Removing expired Deal Items from id 1266 for player 5 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 150, duration 0
+Turn 52, Enacting Deal id 1267 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 52, Removing expired Deal Items from id 1267 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 7, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 52, Enacting Deal id 1268 for player 12 and 5
+, Enacting Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 52, Removing expired Deal Items from id 1268 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 11, duration 0
+Turn 52, Enacting Deal id 1269 for player 12 and 1
+, Enacting Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 52, Removing expired Deal Items from id 1269 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 12, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 5, duration 0
+Turn 52, Enacting Deal id 1270 for player 11 and 7
+, Enacting Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+, Enacting Deal Item ID 3, from player 11, to player 7, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+, Enacting Deal Item ID 4, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 77, duration 0
+Turn 52, Removing expired Deal Items from id 1270 for player 11 and 7
+, Removing expired Deal Item ID 2, from player 11, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 8, duration 0
+, Removing expired Deal Item ID 4, from player 11, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 77, duration 0
+Turn 52, Enacting Deal id 1271 for player 4 and 1
+, Enacting Deal Item ID 2, from player 1, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 52, Removing expired Deal Items from id 1271 for player 4 and 1
+, Removing expired Deal Item ID 2, from player 1, to player 4, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 52, Enacting Deal id 1272 for player 0 and 5
+, Enacting Deal Item ID 2, from player 5, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 91, duration 0
+Turn 52, Removing expired Deal Items from id 1272 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 91, duration 0
+Turn 52, Enacting Deal id 1273 for player 0 and 5
+, Enacting Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 76, duration 0
+Turn 52, Removing expired Deal Items from id 1273 for player 0 and 5
+, Removing expired Deal Item ID 2, from player 0, to player 5, type Gold, subType 0 (), value type YIELD_GOLD, amount 76, duration 0
+Turn 52, Enacting Deal id 1274 for player 0 and 4
+, Enacting Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 52, Removing expired Deal Items from id 1274 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 0, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 52, Enacting Deal id 1275 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 52, Removing expired Deal Items from id 1275 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 13, duration 0
+Turn 53, Enacting Deal id 1276 for player 10 and 8
+, Enacting Deal Item ID 2, from player 10, to player 8, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 8, to player 10, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 53, Removing expired Deal Items from id 1276 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 10, to player 8, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 8, to player 10, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 53, Enacting Deal id 1277 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 25, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 53, Removing expired Deal Items from id 1277 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 25, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 53, Enacting Deal id 1278 for player 3 and 11
+, Enacting Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 77, duration 0
+Turn 53, Removing expired Deal Items from id 1278 for player 3 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 77, duration 0
+Turn 53, Enacting Deal id 1279 for player 9 and 8
+, Enacting Deal Item ID 2, from player 9, to player 8, type RESOURCE_COCOA, subType 0 (), value type RESOURCE_COCOA, amount 1, duration 30
+Turn 53, Enacting Deal id 1280 for player 12 and 2
+, Enacting Deal Item ID 2, from player 12, to player 2, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 12, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 53, Removing expired Deal Items from id 1280 for player 12 and 2
+, Removing expired Deal Item ID 2, from player 12, to player 2, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 2, to player 12, type LOC_ALLIANCE_MILITARY, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_MILITARY, amount 0, duration 0
+Turn 53, Enacting Deal id 1281 for player 13 and 10
+, Enacting Deal Item ID 2, from player 13, to player 10, type Favor, subType 0 (), value type FAVOR, amount 7, duration 0
+Turn 53, Removing expired Deal Items from id 1281 for player 13 and 10
+, Removing expired Deal Item ID 2, from player 13, to player 10, type Favor, subType 0 (), value type FAVOR, amount 7, duration 0
+Turn 53, Enacting Deal id 1282 for player 1 and 2
+, Enacting Deal Item ID 2, from player 2, to player 1, type RESOURCE_DIAMONDS, subType 0 (), value type RESOURCE_DIAMONDS, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 1, to player 2, type RESOURCE_SILVER, subType 0 (), value type RESOURCE_SILVER, amount 1, duration 30
+Turn 53, Enacting Deal id 1283 for player 10 and 13
+, Enacting Deal Item ID 2, from player 13, to player 10, type Favor, subType 0 (), value type FAVOR, amount 10, duration 0
+Turn 53, Removing expired Deal Items from id 1283 for player 10 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 10, type Favor, subType 0 (), value type FAVOR, amount 10, duration 0
+Turn 53, Enacting Deal id 1284 for player 13 and 9
+, Enacting Deal Item ID 2, from player 13, to player 9, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 9, to player 13, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 53, Removing expired Deal Items from id 1284 for player 13 and 9
+, Removing expired Deal Item ID 2, from player 13, to player 9, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 9, to player 13, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+Turn 53, Enacting Deal id 1285 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 53, Removing expired Deal Items from id 1285 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 53, Enacting Deal id 1286 for player 11 and 9
+, Enacting Deal Item ID 2, from player 9, to player 11, type Favor, subType 0 (), value type FAVOR, amount 3, duration 0
+Turn 53, Removing expired Deal Items from id 1286 for player 11 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 11, type Favor, subType 0 (), value type FAVOR, amount 3, duration 0
+Turn 53, Enacting Deal id 1287 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 53, Removing expired Deal Items from id 1287 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 6, duration 0
+Turn 53, Enacting Deal id 1288 for player 1 and 5
+, Enacting Deal Item ID 2, from player 1, to player 5, type RESOURCE_SILVER, subType 0 (), value type RESOURCE_SILVER, amount 1, duration 30
+Turn 53, Enacting Deal id 1289 for player 13 and 8
+, Enacting Deal Item ID 2, from player 13, to player 8, type Favor, subType 0 (), value type FAVOR, amount 2, duration 0
+Turn 53, Removing expired Deal Items from id 1289 for player 13 and 8
+, Removing expired Deal Item ID 2, from player 13, to player 8, type Favor, subType 0 (), value type FAVOR, amount 2, duration 0
+Turn 53, Enacting Deal id 1290 for player 13 and 7
+, Enacting Deal Item ID 2, from player 13, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 30, duration 30
+Turn 53, Enacting Deal id 1291 for player 3 and 7
+, Enacting Deal Item ID 2, from player 7, to player 3, type Favor, subType 0 (), value type FAVOR, amount 9, duration 0
+Turn 53, Removing expired Deal Items from id 1291 for player 3 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 3, type Favor, subType 0 (), value type FAVOR, amount 9, duration 0
+Turn 53, Enacting Deal id 1292 for player 9 and 7
+, Enacting Deal Item ID 2, from player 9, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 122, duration 0
+Turn 53, Removing expired Deal Items from id 1292 for player 9 and 7
+, Removing expired Deal Item ID 2, from player 9, to player 7, type Gold, subType 0 (), value type YIELD_GOLD, amount 122, duration 0
+Turn 53, Enacting Deal id 1293 for player 10 and 7
+, Enacting Deal Item ID 2, from player 7, to player 10, type Favor, subType 0 (), value type FAVOR, amount 4, duration 0
+Turn 53, Removing expired Deal Items from id 1293 for player 10 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 10, type Favor, subType 0 (), value type FAVOR, amount 4, duration 0
+Turn 53, Enacting Deal id 1294 for player 9 and 7
+, Enacting Deal Item ID 2, from player 9, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 21, duration 0
+Turn 53, Removing expired Deal Items from id 1294 for player 9 and 7
+, Removing expired Deal Item ID 2, from player 9, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 21, duration 0
+Turn 53, Enacting Deal id 1295 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 50, duration 0
+Turn 53, Removing expired Deal Items from id 1295 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 50, duration 0
+Turn 54, Enacting Deal id 1296 for player 0 and 2
+, Enacting Deal Item ID 2, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 54, Removing expired Deal Items from id 1296 for player 0 and 2
+, Removing expired Deal Item ID 2, from player 2, to player 0, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 54, Enacting Deal id 1297 for player 6 and 4
+, Enacting Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 300, duration 0
+Turn 54, Removing expired Deal Items from id 1297 for player 6 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 300, duration 0
+Turn 54, Enacting Deal id 1298 for player 12 and 1
+, Enacting Deal Item ID 2, from player 12, to player 1, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 1, to player 12, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 54, Removing expired Deal Items from id 1298 for player 12 and 1
+, Removing expired Deal Item ID 2, from player 12, to player 1, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 1, to player 12, type LOC_ALLIANCE_RESEARCH, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RESEARCH, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 1, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 54, Enacting Deal id 1299 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 54, Removing expired Deal Items from id 1299 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 54, Enacting Deal id 1300 for player 7 and 8
+, Enacting Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 54, Removing expired Deal Items from id 1300 for player 7 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 4, duration 0
+Turn 54, Enacting Deal id 1301 for player 7 and 3
+, Enacting Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 15, duration 0
+Turn 54, Removing expired Deal Items from id 1301 for player 7 and 3
+, Removing expired Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 15, duration 0
+Turn 55, Enacting Deal id 1302 for player 0 and 4
+, Enacting Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 55, Removing expired Deal Items from id 1302 for player 0 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 0, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 9, duration 0
+Turn 55, Enacting Deal id 1303 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 1, type RESOURCE_TEA, subType 0 (), value type RESOURCE_TEA, amount 1, duration 30
+, Enacting Deal Item ID 4, from player 1, to player 4, type RESOURCE_SILVER, subType 0 (), value type RESOURCE_SILVER, amount 1, duration 30
+Turn 55, Removing expired Deal Items from id 1303 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 55, Enacting Deal id 1304 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 55, Removing expired Deal Items from id 1304 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 55, Enacting Deal id 1305 for player 3 and 7
+, Enacting Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 16, duration 0
+Turn 55, Removing expired Deal Items from id 1305 for player 3 and 7
+, Removing expired Deal Item ID 2, from player 3, to player 7, type RESOURCE_HORSES, subType 0 (), value type RESOURCE_HORSES, amount 16, duration 0
+Turn 55, Enacting Deal id 1306 for player 10 and 8
+, Enacting Deal Item ID 2, from player 8, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+Turn 55, Removing expired Deal Items from id 1306 for player 10 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 10, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 20, duration 0
+Turn 55, Enacting Deal id 1307 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 55, Removing expired Deal Items from id 1307 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 56, Enacting Deal id 1308 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 56, Removing expired Deal Items from id 1308 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 56, Enacting Deal id 1309 for player 12 and 4
+, Enacting Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 56, Removing expired Deal Items from id 1309 for player 12 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 12, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 56, Enacting Deal id 1310 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 56, Removing expired Deal Items from id 1310 for player 9 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 56, Enacting Deal id 1311 for player 9 and 13
+, Enacting Deal Item ID 2, from player 13, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 56, Removing expired Deal Items from id 1311 for player 9 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 56, Enacting Deal id 1312 for player 3 and 11
+, Enacting Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 56, Removing expired Deal Items from id 1312 for player 3 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 56, Enacting Deal id 1313 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 56, Removing expired Deal Items from id 1313 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 56, Enacting Deal id 1314 for player 6 and 4
+, Enacting Deal Item ID 2, from player 6, to player 4, type RESOURCE_DIAMONDS, subType 0 (), value type RESOURCE_DIAMONDS, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 6, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 56, Removing expired Deal Items from id 1314 for player 6 and 4
+, Removing expired Deal Item ID 3, from player 6, to player 4, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 56, Enacting Deal id 1315 for player 3 and 9
+, Enacting Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 17, duration 0
+Turn 56, Removing expired Deal Items from id 1315 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 9, to player 3, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 17, duration 0
+Turn 57, Enacting Deal id 1316 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 4, duration 0
+Turn 57, Removing expired Deal Items from id 1316 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 4, duration 0
+Turn 57, Enacting Deal id 1317 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 400, duration 0
+Turn 57, Removing expired Deal Items from id 1317 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 400, duration 0
+Turn 57, Enacting Deal id 1318 for player 11 and 7
+, Enacting Deal Item ID 2, from player 7, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 1, duration 0
+Turn 57, Removing expired Deal Items from id 1318 for player 11 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 1, duration 0
+Turn 57, Enacting Deal id 1319 for player 9 and 13
+, Enacting Deal Item ID 2, from player 13, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+, Enacting Deal Item ID 3, from player 13, to player 9, type RESOURCE_COTTON, subType 0 (), value type RESOURCE_COTTON, amount 1, duration 30
+Turn 57, Removing expired Deal Items from id 1319 for player 9 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 57, Enacting Deal id 1320 for player 9 and 8
+, Enacting Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 57, Removing expired Deal Items from id 1320 for player 9 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 6, duration 0
+Turn 57, Enacting Deal id 1321 for player 3 and 9
+, Enacting Deal Item ID 2, from player 3, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 57, Removing expired Deal Items from id 1321 for player 3 and 9
+, Removing expired Deal Item ID 2, from player 3, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 14, duration 0
+Turn 57, Enacting Deal id 1322 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 40, duration 0
+Turn 57, Removing expired Deal Items from id 1322 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 40, duration 0
+Turn 57, Enacting Deal id 1323 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 57, Removing expired Deal Items from id 1323 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 57, Enacting Deal id 1324 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 57, Removing expired Deal Items from id 1324 for player 9 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 9, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 4, duration 0
+Turn 57, Enacting Deal id 1325 for player 13 and 7
+, Enacting Deal Item ID 2, from player 7, to player 13, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 15, duration 0
+Turn 57, Removing expired Deal Items from id 1325 for player 13 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 13, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 15, duration 0
+Turn 57, Enacting Deal id 1326 for player 6 and 2
+, Enacting Deal Item ID 2, from player 6, to player 2, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 2, to player 6, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Enacting Deal Item ID 4, from player 2, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 57, Removing expired Deal Items from id 1326 for player 6 and 2
+, Removing expired Deal Item ID 2, from player 6, to player 2, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 2, to player 6, type LOC_ALLIANCE_RELIGIOUS, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_RELIGIOUS, amount 0, duration 0
+, Removing expired Deal Item ID 4, from player 2, to player 6, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 57, Enacting Deal id 1327 for player 10 and 13
+, Enacting Deal Item ID 2, from player 13, to player 10, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+, Enacting Deal Item ID 3, from player 13, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 57, Removing expired Deal Items from id 1327 for player 10 and 13
+, Removing expired Deal Item ID 3, from player 13, to player 10, type Gold, subType 0 (), value type YIELD_GOLD, amount 15, duration 0
+Turn 57, Enacting Deal id 1328 for player 12 and 5
+, Enacting Deal Item ID 2, from player 12, to player 5, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Enacting Deal Item ID 3, from player 5, to player 12, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 57, Removing expired Deal Items from id 1328 for player 12 and 5
+, Removing expired Deal Item ID 2, from player 12, to player 5, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+, Removing expired Deal Item ID 3, from player 5, to player 12, type LOC_ALLIANCE_CULTURAL, subType 1764885355 (DIPLOACTION_ALLIANCE), value type ALLIANCE_CULTURAL, amount 0, duration 0
+Turn 58, Enacting Deal id 1329 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 3, duration 0
+Turn 58, Removing expired Deal Items from id 1329 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 3, duration 0
+Turn 58, Enacting Deal id 1330 for player 11 and 7
+, Enacting Deal Item ID 2, from player 7, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 1, duration 0
+Turn 58, Removing expired Deal Items from id 1330 for player 11 and 7
+, Removing expired Deal Item ID 2, from player 7, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 1, duration 0
+Turn 58, Enacting Deal id 1331 for player 8 and 13
+, Enacting Deal Item ID 2, from player 13, to player 8, type RESOURCE_PEARLS, subType 0 (), value type RESOURCE_PEARLS, amount 1, duration 30
+Turn 58, Enacting Deal id 1332 for player 1 and 4
+, Enacting Deal Item ID 2, from player 4, to player 1, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 25, duration 0
+, Enacting Deal Item ID 3, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 500, duration 0
+Turn 58, Removing expired Deal Items from id 1332 for player 1 and 4
+, Removing expired Deal Item ID 2, from player 4, to player 1, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 25, duration 0
+, Removing expired Deal Item ID 3, from player 4, to player 1, type Gold, subType 0 (), value type YIELD_GOLD, amount 500, duration 0
+Turn 58, Enacting Deal id 1333 for player 6 and 12
+, Enacting Deal Item ID 2, from player 12, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 24, duration 0
+Turn 58, Removing expired Deal Items from id 1333 for player 6 and 12
+, Removing expired Deal Item ID 2, from player 12, to player 6, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 24, duration 0
+Turn 58, Enacting Deal id 1334 for player 9 and 11
+, Enacting Deal Item ID 2, from player 11, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 58, Removing expired Deal Items from id 1334 for player 9 and 11
+, Removing expired Deal Item ID 2, from player 11, to player 9, type Gold, subType 0 (), value type YIELD_GOLD, amount 100, duration 0
+Turn 59, Enacting Deal id 1335 for player 11 and 8
+, Enacting Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 3, duration 0
+Turn 59, Removing expired Deal Items from id 1335 for player 11 and 8
+, Removing expired Deal Item ID 2, from player 8, to player 11, type RESOURCE_NITER, subType 0 (), value type RESOURCE_NITER, amount 3, duration 0
+Turn 59, Enacting Deal id 1336 for player 3 and 13
+, Enacting Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 59, Removing expired Deal Items from id 1336 for player 3 and 13
+, Removing expired Deal Item ID 2, from player 13, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 200, duration 0
+Turn 59, Enacting Deal id 1337 for player 2 and 5
+, Enacting Deal Item ID 2, from player 5, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 59, Removing expired Deal Items from id 1337 for player 2 and 5
+, Removing expired Deal Item ID 2, from player 5, to player 2, type RESOURCE_IRON, subType 0 (), value type RESOURCE_IRON, amount 21, duration 0
+Turn 60, Enacting Deal id 1338 for player 2 and 3
+, Enacting Deal Item ID 2, from player 2, to player 3, type Peace, subType 547027585 (DIPLOACTION_MAKE_PEACE), value type , amount 0, duration 8
+, Enacting Deal Item ID 3, from player 3, to player 2, type Peace, subType 547027585 (DIPLOACTION_MAKE_PEACE), value type , amount 0, duration 8
+, Enacting Deal Item ID 4, from player 2, to player 3, type Gold, subType 0 (), value type YIELD_GOLD, amount 2, duration 30

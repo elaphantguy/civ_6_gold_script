@@ -1,0 +1,573 @@
+[2675291.846] Resolving Random Leaders for Game.
+[2675291.846] Current Civ/Leader State:
+[2675291.846] Player 0: Civilization - CIVILIZATION_PHOENICIA (1105691465)  Leader - LEADER_DIDO (-1594173807), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 1: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 2: Civilization - CIVILIZATION_BYZANTIUM (-1651363178)  Leader - LEADER_BASIL (-49964157), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 3: Civilization - CIVILIZATION_ENGLAND (-291706713)  Leader - LEADER_VICTORIA (217707038), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 4: Civilization - CIVILIZATION_MAPUCHE (-248707860)  Leader - LEADER_LAUTARO (1816759674), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 5: Civilization - CIVILIZATION_ROME (-1806906687)  Leader - LEADER_TRAJAN (1512040514), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 6: Civilization - CIVILIZATION_SPAIN (-316274070)  Leader - LEADER_PHILIP_II (-193072152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Player 7: Civilization - CIVILIZATION_SCOTLAND (1576296194)  Leader - LEADER_ROBERT_THE_BRUCE (1010617219), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.846] Resolving random leader for player 0
+[2675291.846] Player already has a leader selected, skipping!
+[2675291.846] Resolving random leader for player 1
+[2675291.846] Player already has a leader selected, skipping!
+[2675291.846] Resolving random leader for player 2
+[2675291.846] Player already has a leader selected, skipping!
+[2675291.846] Resolving random leader for player 3
+[2675291.846] Player already has a leader selected, skipping!
+[2675291.846] Resolving random leader for player 4
+[2675291.846] Player already has a leader selected, skipping!
+[2675291.847] Resolving random leader for player 5
+[2675291.847] Player already has a leader selected, skipping!
+[2675291.847] Resolving random leader for player 6
+[2675291.847] Player already has a leader selected, skipping!
+[2675291.847] Resolving random leader for player 7
+[2675291.847] Player already has a leader selected, skipping!
+[2675291.847] Success!
+[2675291.847] New Civ/Leader State:
+[2675291.847] Player 0: Civilization - CIVILIZATION_PHOENICIA (1105691465)  Leader - LEADER_DIDO (-1594173807), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 1: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 2: Civilization - CIVILIZATION_BYZANTIUM (-1651363178)  Leader - LEADER_BASIL (-49964157), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 3: Civilization - CIVILIZATION_ENGLAND (-291706713)  Leader - LEADER_VICTORIA (217707038), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 4: Civilization - CIVILIZATION_MAPUCHE (-248707860)  Leader - LEADER_LAUTARO (1816759674), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 5: Civilization - CIVILIZATION_ROME (-1806906687)  Leader - LEADER_TRAJAN (1512040514), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 6: Civilization - CIVILIZATION_SPAIN (-316274070)  Leader - LEADER_PHILIP_II (-193072152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.847] Player 7: Civilization - CIVILIZATION_SCOTLAND (1576296194)  Leader - LEADER_ROBERT_THE_BRUCE (1010617219), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675291.848] Resolving Random City States for Game.
+[2675291.848] Adding 12 City-States to the game.
+[2675292.944] Initializing player from config:
+[2675292.944] Player 0: Civilization - CIVILIZATION_PHOENICIA (1105691465)  Leader - LEADER_DIDO (-1594173807), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 1: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 2: Civilization - CIVILIZATION_BYZANTIUM (-1651363178)  Leader - LEADER_BASIL (-49964157), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 3: Civilization - CIVILIZATION_ENGLAND (-291706713)  Leader - LEADER_VICTORIA (217707038), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 4: Civilization - CIVILIZATION_MAPUCHE (-248707860)  Leader - LEADER_LAUTARO (1816759674), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 5: Civilization - CIVILIZATION_ROME (-1806906687)  Leader - LEADER_TRAJAN (1512040514), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 6: Civilization - CIVILIZATION_SPAIN (-316274070)  Leader - LEADER_PHILIP_II (-193072152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 7: Civilization - CIVILIZATION_SCOTLAND (1576296194)  Leader - LEADER_ROBERT_THE_BRUCE (1010617219), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2675292.944] Player 8: Civilization - CIVILIZATION_CHINGUETTI (-1936776523)  Leader - LEADER_MINOR_CIV_CHINGUETTI (-664803108), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 9: Civilization - CIVILIZATION_HATTUSA (1490631343)  Leader - LEADER_MINOR_CIV_HATTUSA (-106738944), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 10: Civilization - CIVILIZATION_PRESLAV (-1590856877)  Leader - LEADER_MINOR_CIV_PRESLAV (5702396), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 11: Civilization - CIVILIZATION_NAZCA (-405745623)  Leader - LEADER_MINOR_CIV_NAZCA (-734255098), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 12: Civilization - CIVILIZATION_NALANDA (430881916)  Leader - LEADER_MINOR_CIV_NALANDA (-1194013229), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 13: Civilization - CIVILIZATION_CAHOKIA (-565989143)  Leader - LEADER_MINOR_CIV_CAHOKIA (2134491462), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 14: Civilization - CIVILIZATION_BUENOS_AIRES (-549593626)  Leader - LEADER_MINOR_CIV_BUENOS_AIRES (280195702), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 15: Civilization - CIVILIZATION_KABUL (1596744955)  Leader - LEADER_MINOR_CIV_KABUL (1824562388), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 16: Civilization - CIVILIZATION_JERUSALEM (357080612)  Leader - LEADER_MINOR_CIV_JERUSALEM (467001042), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 17: Civilization - CIVILIZATION_SAMARKAND (1486746550)  Leader - LEADER_MINOR_CIV_SAMARKAND (1442886464), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 18: Civilization - CIVILIZATION_ANTIOCH (-1127493960)  Leader - LEADER_MINOR_CIV_ANTIOCH (498188055), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 19: Civilization - CIVILIZATION_LA_VENTA (-1594541388)  Leader - LEADER_MINOR_CIV_LA_VENTA (-432144708), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2675292.944] Player 62: Civilization - CIVILIZATION_FREE_CITIES (1332034383)  Leader - LEADER_FREE_CITIES (-1907075578), - Level - CIVILIZATION_LEVEL_FREE_CITIES, SlotStatus - AI
+[2675292.944] Player 63: Civilization - CIVILIZATION_BARBARIAN (-1758762461)  Leader - (null) (0), - Level - CIVILIZATION_LEVEL_TRIBE, SlotStatus - AI
+[2675293.657] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.658] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.658] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.658] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.658] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.658] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.659] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675293.660] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2675306.346] Common Class Sizes:
+[2675306.346] Unit::Instance, size = 3368
+[2675306.346] Unit::GreatPerson, size = 24
+[2675306.346] Unit::Archaeology, size = 48
+[2675306.346] Unit::Espionage, size = 136
+[2675306.346] Unit::Experience, size = 80
+[2675306.346] Unit::Trade, size = 48
+[2675306.346] Unit::Religion, size = 96
+[2675306.346] Unit::RockBand, size = 208
+[2675306.346] Unit::HealthModifiers, size = 16
+[2675306.346] Unit::HealthReligionModifiers, size = 16
+[2675306.346] Unit::CombatModifiers, size = 132
+[2675306.346] Unit::MovementModifiers, size = 28
+[2675306.346] Unit::SightModifiers, size = 8
+[2675306.346] Unit::AttackRangeModifiers, size = 4
+[2675306.346] Cache::Unit::Instance, size = 496
+[2675306.346] Player::Instance, size = 2128
+[2675306.346] Map::Plot::Instance, size = 80
+[2675306.347] Cache::Map::Plot::Instance, size = 96
+[2675306.347] Player::Trade, size = 2144
+[2675306.347] Player::Techs, size = 488
+[2675306.347] Player::Stats, size = 3648
+[2675306.347] Player::Treasury, size = 472
+[2675306.347] Trade::Vertex, size = 12
+[2675306.347] Trade::Edge, size = 528
+[2675306.347] Trade::Route, size = 112
+[2675306.347] Trade::Graph, size = 344
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.584] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.585] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680174.586] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.279] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.280] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.280] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.280] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.280] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680383.281] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.397] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.398] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2680578.399] Pathfinder Allocation, rows 54, columns 84, column buffer 672, row buffer 4752, total 399168
+[2687085.677] Resolving Random Leaders for Game.
+[2687085.677] Current Civ/Leader State:
+[2687085.677] Player 0: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 2: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 3: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 5: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 6: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 7: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 8: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Player 9: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.677] Resolving random leader for player 0
+[2687085.677] Player already has a leader selected, skipping!
+[2687085.677] Resolving random leader for player 1
+[2687085.677] Player already has a leader selected, skipping!
+[2687085.677] Resolving random leader for player 2
+[2687085.677] Player already has a leader selected, skipping!
+[2687085.677] Resolving random leader for player 3
+[2687085.677] Player already has a leader selected, skipping!
+[2687085.677] Resolving random leader for player 4
+[2687085.677] Player already has a leader selected, skipping!
+[2687085.677] Resolving random leader for player 5
+[2687085.678] Player already has a leader selected, skipping!
+[2687085.678] Resolving random leader for player 6
+[2687085.678] Player already has a leader selected, skipping!
+[2687085.678] Resolving random leader for player 7
+[2687085.678] Player already has a leader selected, skipping!
+[2687085.678] Resolving random leader for player 8
+[2687085.678] Player already has a leader selected, skipping!
+[2687085.678] Resolving random leader for player 9
+[2687085.678] Player already has a leader selected, skipping!
+[2687085.678] Success!
+[2687085.678] New Civ/Leader State:
+[2687085.678] Player 0: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 2: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 3: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 5: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 6: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 7: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 8: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Player 9: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687085.678] Resolving Random City States for Game.
+[2687085.679] Adding 15 City-States to the game.
+[2687086.756] Initializing player from config:
+[2687086.756] Player 0: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 2: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 3: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 5: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 6: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 7: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 8: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 9: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687086.756] Player 10: Civilization - CIVILIZATION_KUMASI (1044830946)  Leader - LEADER_MINOR_CIV_KUMASI (-1784411325), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 11: Civilization - CIVILIZATION_AKKAD (1434843350)  Leader - LEADER_MINOR_CIV_AKKAD (1718157561), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 12: Civilization - CIVILIZATION_BABYLON (-2074343635)  Leader - LEADER_MINOR_CIV_BABYLON (623277698), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 13: Civilization - CIVILIZATION_KABUL (1596744955)  Leader - LEADER_MINOR_CIV_KABUL (1824562388), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 14: Civilization - CIVILIZATION_WOLIN (402946096)  Leader - LEADER_MINOR_CIV_WOLIN (736657439), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 15: Civilization - CIVILIZATION_BUENOS_AIRES (-549593626)  Leader - LEADER_MINOR_CIV_BUENOS_AIRES (280195702), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 16: Civilization - CIVILIZATION_LA_VENTA (-1594541388)  Leader - LEADER_MINOR_CIV_LA_VENTA (-432144708), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 17: Civilization - CIVILIZATION_ZANZIBAR (-409149647)  Leader - LEADER_MINOR_CIV_ZANZIBAR (-1588323527), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 18: Civilization - CIVILIZATION_MOHENJO_DARO (-1992743837)  Leader - LEADER_MINOR_CIV_MOHENJO_DARO (1186434035), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 19: Civilization - CIVILIZATION_KANDY (1748130404)  Leader - LEADER_MINOR_CIV_KANDY (1541317195), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 20: Civilization - CIVILIZATION_NGAZARGAMU (-1121933578)  Leader - LEADER_MINOR_CIV_NGAZARGAMU (-370119521), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 21: Civilization - CIVILIZATION_HONG_KONG (-281772887)  Leader - LEADER_MINOR_CIV_HONG_KONG (-509002657), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 22: Civilization - CIVILIZATION_GRANADA (-1562699200)  Leader - LEADER_MINOR_CIV_GRANADA (60910575), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 23: Civilization - CIVILIZATION_YEREVAN (-1895171710)  Leader - LEADER_MINOR_CIV_YEREVAN (779323437), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 24: Civilization - CIVILIZATION_CAHOKIA (-565989143)  Leader - LEADER_MINOR_CIV_CAHOKIA (2134491462), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687086.756] Player 62: Civilization - CIVILIZATION_FREE_CITIES (1332034383)  Leader - LEADER_FREE_CITIES (-1907075578), - Level - CIVILIZATION_LEVEL_FREE_CITIES, SlotStatus - AI
+[2687086.756] Player 63: Civilization - CIVILIZATION_BARBARIAN (-1758762461)  Leader - (null) (0), - Level - CIVILIZATION_LEVEL_TRIBE, SlotStatus - AI
+[2687087.614] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.614] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.614] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.614] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.615] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687087.618] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687120.037] Common Class Sizes:
+[2687120.037] Unit::Instance, size = 3368
+[2687120.037] Unit::GreatPerson, size = 24
+[2687120.037] Unit::Archaeology, size = 48
+[2687120.037] Unit::Espionage, size = 136
+[2687120.037] Unit::Experience, size = 80
+[2687120.037] Unit::Trade, size = 48
+[2687120.037] Unit::Religion, size = 96
+[2687120.037] Unit::RockBand, size = 208
+[2687120.037] Unit::HealthModifiers, size = 16
+[2687120.037] Unit::HealthReligionModifiers, size = 16
+[2687120.037] Unit::CombatModifiers, size = 132
+[2687120.037] Unit::MovementModifiers, size = 28
+[2687120.037] Unit::SightModifiers, size = 8
+[2687120.037] Unit::AttackRangeModifiers, size = 4
+[2687120.037] Cache::Unit::Instance, size = 496
+[2687120.037] Player::Instance, size = 2128
+[2687120.037] Map::Plot::Instance, size = 80
+[2687120.037] Cache::Map::Plot::Instance, size = 96
+[2687120.037] Player::Trade, size = 2144
+[2687120.037] Player::Techs, size = 488
+[2687120.037] Player::Stats, size = 3648
+[2687120.037] Player::Treasury, size = 472
+[2687120.037] Trade::Vertex, size = 12
+[2687120.037] Trade::Edge, size = 528
+[2687120.037] Trade::Route, size = 112
+[2687120.037] Trade::Graph, size = 344
+[2687881.588] Resolving Random Leaders for Game.
+[2687881.588] Current Civ/Leader State:
+[2687881.588] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 1: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 2: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 6: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 7: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 8: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Player 9: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.588] Resolving random leader for player 0
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 1
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 2
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 3
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 4
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 5
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 6
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 7
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 8
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Resolving random leader for player 9
+[2687881.588] Player already has a leader selected, skipping!
+[2687881.588] Success!
+[2687881.588] New Civ/Leader State:
+[2687881.589] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 1: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 2: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 6: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 7: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 8: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Player 9: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687881.589] Resolving Random City States for Game.
+[2687881.589] Adding 15 City-States to the game.
+[2687882.675] Initializing player from config:
+[2687882.675] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 1: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 2: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 6: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 7: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 8: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 9: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2687882.675] Player 10: Civilization - CIVILIZATION_NAZCA (-405745623)  Leader - LEADER_MINOR_CIV_NAZCA (-734255098), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 11: Civilization - CIVILIZATION_HUNZA (935610357)  Leader - LEADER_MINOR_CIV_HUNZA (69779418), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 12: Civilization - CIVILIZATION_BRUSSELS (-2101932944)  Leader - LEADER_MINOR_CIV_BRUSSELS (-998258568), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 13: Civilization - CIVILIZATION_BABYLON (-2074343635)  Leader - LEADER_MINOR_CIV_BABYLON (623277698), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 14: Civilization - CIVILIZATION_WOLIN (402946096)  Leader - LEADER_MINOR_CIV_WOLIN (736657439), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 15: Civilization - CIVILIZATION_BOLOGNA (-236645554)  Leader - LEADER_MINOR_CIV_BOLOGNA (1352622817), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 16: Civilization - CIVILIZATION_TARUGA (1787185388)  Leader - LEADER_MINOR_CIV_TARUGA (-1050371763), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 17: Civilization - CIVILIZATION_HATTUSA (1490631343)  Leader - LEADER_MINOR_CIV_HATTUSA (-106738944), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 18: Civilization - CIVILIZATION_CAGUANA (560038866)  Leader - LEADER_MINOR_CIV_CAGUANA (-2145652099), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 19: Civilization - CIVILIZATION_GENEVA (1333065310)  Leader - LEADER_MINOR_CIV_GENEVA (-459921409), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 20: Civilization - CIVILIZATION_CHINGUETTI (-1936776523)  Leader - LEADER_MINOR_CIV_CHINGUETTI (-664803108), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 21: Civilization - CIVILIZATION_KABUL (1596744955)  Leader - LEADER_MINOR_CIV_KABUL (1824562388), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 22: Civilization - CIVILIZATION_FEZ (1256334125)  Leader - LEADER_MINOR_CIV_FEZ (2050516078), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 23: Civilization - CIVILIZATION_SAMARKAND (1486746550)  Leader - LEADER_MINOR_CIV_SAMARKAND (1442886464), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 24: Civilization - CIVILIZATION_SINGAPORE (1467968654)  Leader - LEADER_MINOR_CIV_SINGAPORE (1507994744), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2687882.675] Player 62: Civilization - CIVILIZATION_FREE_CITIES (1332034383)  Leader - LEADER_FREE_CITIES (-1907075578), - Level - CIVILIZATION_LEVEL_FREE_CITIES, SlotStatus - AI
+[2687882.675] Player 63: Civilization - CIVILIZATION_BARBARIAN (-1758762461)  Leader - (null) (0), - Level - CIVILIZATION_LEVEL_TRIBE, SlotStatus - AI
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.551] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.552] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687883.555] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2687912.302] Common Class Sizes:
+[2687912.302] Unit::Instance, size = 3368
+[2687912.302] Unit::GreatPerson, size = 24
+[2687912.302] Unit::Archaeology, size = 48
+[2687912.302] Unit::Espionage, size = 136
+[2687912.302] Unit::Experience, size = 80
+[2687912.302] Unit::Trade, size = 48
+[2687912.302] Unit::Religion, size = 96
+[2687912.302] Unit::RockBand, size = 208
+[2687912.302] Unit::HealthModifiers, size = 16
+[2687912.302] Unit::HealthReligionModifiers, size = 16
+[2687912.302] Unit::CombatModifiers, size = 132
+[2687912.302] Unit::MovementModifiers, size = 28
+[2687912.302] Unit::SightModifiers, size = 8
+[2687912.302] Unit::AttackRangeModifiers, size = 4
+[2687912.302] Cache::Unit::Instance, size = 496
+[2687912.302] Player::Instance, size = 2128
+[2687912.302] Map::Plot::Instance, size = 80
+[2687912.302] Cache::Map::Plot::Instance, size = 96
+[2687912.302] Player::Trade, size = 2144
+[2687912.302] Player::Techs, size = 488
+[2687912.302] Player::Stats, size = 3648
+[2687912.302] Player::Treasury, size = 472
+[2687912.302] Trade::Vertex, size = 12
+[2687912.302] Trade::Edge, size = 528
+[2687912.302] Trade::Route, size = 112
+[2687912.302] Trade::Graph, size = 344
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.172] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.173] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.173] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.173] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688696.174] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.304] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.304] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.304] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.304] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688843.307] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.305] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.306] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.307] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2688978.308] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690167.700] Resolving Random Leaders for Game.
+[2690167.700] Current Civ/Leader State:
+[2690167.701] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 2: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 6: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 7: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 8: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 9: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Resolving random leader for player 0
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 1
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 2
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 3
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 4
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 5
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 6
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 7
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 8
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Resolving random leader for player 9
+[2690167.701] Player already has a leader selected, skipping!
+[2690167.701] Success!
+[2690167.701] New Civ/Leader State:
+[2690167.701] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 2: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 6: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 7: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 8: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.701] Player 9: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690167.702] Resolving Random City States for Game.
+[2690167.702] Adding 15 City-States to the game.
+[2690168.775] Initializing player from config:
+[2690168.775] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 1: Civilization - CIVILIZATION_CREE (-1597095920)  Leader - LEADER_POUNDMAKER (-927759162), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 2: Civilization - CIVILIZATION_NUBIA (-797898077)  Leader - LEADER_AMANITORE (1254487876), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 3: Civilization - CIVILIZATION_GRAN_COLOMBIA (-1470070539)  Leader - LEADER_SIMON_BOLIVAR (-1101883153), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 4: Civilization - CIVILIZATION_VIETNAM (-1076195062)  Leader - LEADER_LADY_TRIEU (-198831152), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 5: Civilization - CIVILIZATION_INDIA (-507217249)  Leader - LEADER_CHANDRAGUPTA (-746938402), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 6: Civilization - CIVILIZATION_POLAND (1147588701)  Leader - LEADER_JADWIGA (-1632488649), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 7: Civilization - CIVILIZATION_GAUL (47341723)  Leader - LEADER_AMBIORIX (-1181759895), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 8: Civilization - CIVILIZATION_JAPAN (-1118925780)  Leader - LEADER_HOJO (1881290773), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 9: Civilization - CIVILIZATION_KONGO (1460980677)  Leader - LEADER_MVEMBA (-1158032815), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human
+[2690168.775] Player 10: Civilization - CIVILIZATION_NAZCA (-405745623)  Leader - LEADER_MINOR_CIV_NAZCA (-734255098), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 11: Civilization - CIVILIZATION_BOLOGNA (-236645554)  Leader - LEADER_MINOR_CIV_BOLOGNA (1352622817), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 12: Civilization - CIVILIZATION_JERUSALEM (357080612)  Leader - LEADER_MINOR_CIV_JERUSALEM (467001042), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 13: Civilization - CIVILIZATION_ZANZIBAR (-409149647)  Leader - LEADER_MINOR_CIV_ZANZIBAR (-1588323527), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 14: Civilization - CIVILIZATION_YEREVAN (-1895171710)  Leader - LEADER_MINOR_CIV_YEREVAN (779323437), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 15: Civilization - CIVILIZATION_KABUL (1596744955)  Leader - LEADER_MINOR_CIV_KABUL (1824562388), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 16: Civilization - CIVILIZATION_NALANDA (430881916)  Leader - LEADER_MINOR_CIV_NALANDA (-1194013229), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 17: Civilization - CIVILIZATION_MUSCAT (1085264183)  Leader - LEADER_MINOR_CIV_MUSCAT (-347275114), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 18: Civilization - CIVILIZATION_FEZ (1256334125)  Leader - LEADER_MINOR_CIV_FEZ (2050516078), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 19: Civilization - CIVILIZATION_PALENQUE (-135391837)  Leader - LEADER_MINOR_CIV_PALENQUE (-1322856021), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 20: Civilization - CIVILIZATION_LA_VENTA (-1594541388)  Leader - LEADER_MINOR_CIV_LA_VENTA (-432144708), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 21: Civilization - CIVILIZATION_KUMASI (1044830946)  Leader - LEADER_MINOR_CIV_KUMASI (-1784411325), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 22: Civilization - CIVILIZATION_NGAZARGAMU (-1121933578)  Leader - LEADER_MINOR_CIV_NGAZARGAMU (-370119521), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 23: Civilization - CIVILIZATION_LISBON (1287702226)  Leader - LEADER_MINOR_CIV_LISBON (-417196173), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 24: Civilization - CIVILIZATION_GENEVA (1333065310)  Leader - LEADER_MINOR_CIV_GENEVA (-459921409), - Level - CIVILIZATION_LEVEL_CITY_STATE, SlotStatus - AI
+[2690168.775] Player 62: Civilization - CIVILIZATION_FREE_CITIES (1332034383)  Leader - LEADER_FREE_CITIES (-1907075578), - Level - CIVILIZATION_LEVEL_FREE_CITIES, SlotStatus - AI
+[2690168.775] Player 63: Civilization - CIVILIZATION_BARBARIAN (-1758762461)  Leader - (null) (0), - Level - CIVILIZATION_LEVEL_TRIBE, SlotStatus - AI
+[2690169.661] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.661] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.662] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.663] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.663] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.663] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690169.665] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2690235.975] Common Class Sizes:
+[2690235.975] Unit::Instance, size = 3368
+[2690235.975] Unit::GreatPerson, size = 24
+[2690235.975] Unit::Archaeology, size = 48
+[2690235.975] Unit::Espionage, size = 136
+[2690235.975] Unit::Experience, size = 80
+[2690235.975] Unit::Trade, size = 48
+[2690235.975] Unit::Religion, size = 96
+[2690235.975] Unit::RockBand, size = 208
+[2690235.975] Unit::HealthModifiers, size = 16
+[2690235.975] Unit::HealthReligionModifiers, size = 16
+[2690235.975] Unit::CombatModifiers, size = 132
+[2690235.975] Unit::MovementModifiers, size = 28
+[2690235.975] Unit::SightModifiers, size = 8
+[2690235.975] Unit::AttackRangeModifiers, size = 4
+[2690235.975] Cache::Unit::Instance, size = 496
+[2690235.975] Player::Instance, size = 2128
+[2690235.975] Map::Plot::Instance, size = 80
+[2690235.975] Cache::Map::Plot::Instance, size = 96
+[2690235.975] Player::Trade, size = 2144
+[2690235.976] Player::Techs, size = 488
+[2690235.976] Player::Stats, size = 3648
+[2690235.976] Player::Treasury, size = 472
+[2690235.976] Trade::Vertex, size = 12
+[2690235.976] Trade::Edge, size = 528
+[2690235.976] Trade::Route, size = 112
+[2690235.976] Trade::Graph, size = 344
+[2697270.561] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.561] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.561] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.561] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.561] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.562] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697270.564] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.121] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.121] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.121] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.122] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.123] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2697991.124] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.056] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.056] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.056] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.057] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.058] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.058] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2698704.060] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.044] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.044] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.044] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.045] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.046] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.046] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
+[2702941.047] Pathfinder Allocation, rows 60, columns 96, column buffer 768, row buffer 5280, total 506880
