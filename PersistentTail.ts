@@ -27,7 +27,7 @@ export class PersistentTail {
 		this.basename = path.basename(filename);
 		this.watcher = hound.watch(this.dirname);
 		this.watcher.on('create', (filename) => {
-			if(path.basename(filename) === this.basename) {
+			if (path.basename(filename) === this.basename) {
 				this.tail = this.recreateTail(filename);
 			}
 		});
@@ -40,7 +40,7 @@ export class PersistentTail {
 
 	private recreateTail(filename: string) {
 		try {
-			const tail = new Tail(filename, {fromBeginning: true, follow: true});
+			const tail = new Tail(filename, {fromBeginning: true, follow: true, useWatchFile: true});
 			tail.on('error', (error) => {
 				console.error(error);
 			});
