@@ -1,4 +1,5 @@
 import _ from "lodash";
+import {CsvLine} from "./PersistentTail";
 // interest is approx '1.014' for 25 gold turn one to be 75 gold turn 80. 
 // intrest is approx 1.035 for doubling in value every 20 turns. 
 // this is similar to a builder buy for 2 sheep and 1 horse. 
@@ -52,7 +53,8 @@ export class Game {
 			['recieved'], 
 			['recieved adj.'], 
 			['net'], 
-			['net adj.'], 
+			['net adj.'],
+			['cur net gpt'],
 			[`Turn ${curTurn}`]];
 		_.forEach(this.turnSnaps[curTurn], (player, key) => {
 			const sent = player.net.sent;
@@ -71,6 +73,7 @@ export class Game {
 			ret[i++].push(`${recievedWithInterest}`);
 			ret[i++].push(`${colorValue(net)}`);
 			ret[i++].push(`${colorValue(netWithIntrest)}`);
+			ret[i++].push(`${player.eodGpt}`)
 			ret[i++].push(this.players[key as any].name);
 		});
 		return ret;
@@ -116,7 +119,7 @@ export class Game {
 
 	doLuxDeal(deal: {from: number, to: number}) {
 		this.getPlayer(deal.from).sendLux(deal.to);
-		this.getPlayer(deal.to).recieveLux(deal.from);
+		this.getPlayer(deal.to).receiveLux(deal.from);
 	}
 
 	doDeal(deal: deal) {
@@ -129,6 +132,8 @@ export class Game {
 			_.forEach(this.gptDeals, runningDeal => {
 				if (runningDeal.turn + runningDeal.duration > this.latestTurn) {
 					this.doSingleTurnDeal(runningDeal);
+					this.upsertGpt(deal.from, deal.turn, deal.amount);
+					this.upsertGpt(deal.to, deal.turn, -deal.amount);
 				}
 			});
 			// add a turn to the snapshots. 
@@ -146,6 +151,10 @@ export class Game {
 		this.notifyFrontend();
 	}
 
+	upsertGpt(player: number, turn: number, gpt: number) {
+		this.turnSnaps[turn][player].eodGpt -= gpt;
+	}
+
 	notifyFrontend() {
 		_.forEach(this.listeningFns, fn => {
 			fn();
@@ -154,7 +163,7 @@ export class Game {
 
 	doSingleTurnDeal(deal: deal) {
 		this.getPlayer(deal.from).sendMoney(deal.to, deal.amount);
-		this.getPlayer(deal.to).recieveMoney(deal.from, deal.amount);
+		this.getPlayer(deal.to).receiveMoney(deal.from, deal.amount);
 	}
 
 	applyInterestTick() {
@@ -222,6 +231,7 @@ export class RelationShip {
 
 export class PlayerSnap {
 	net: RelationShip;
+	eodGpt: number;
 	constructor(val: RelationShip) {
 		this.net = new RelationShip();
 		this.net.recieved = val.recieved;
@@ -230,6 +240,7 @@ export class PlayerSnap {
 		this.net.sentWithInterest = val.sentWithInterest;
 		this.net.sentLuxes = val.sentLuxes;
 		this.net.recievedLuxes = val.recievedLuxes;
+		this.eodGpt = 0;
 	}
 }
 
@@ -264,7 +275,7 @@ export class Player {
 		this.getRelationship(to).sendLux();
 	}
 
-	recieveLux(from: number) {
+	receiveLux(from: number) {
 		this.summedRelationship.recieveLux();
 		this.getRelationship(from).recieveLux();
 	}
@@ -273,7 +284,7 @@ export class Player {
 		this.summedRelationship.sendGold(amount);
 		this.getRelationship(to).sendGold(amount);
 	}
-	recieveMoney(from: number, amount: number) {
+	receiveMoney(from: number, amount: number) {
 		this.summedRelationship.recieveGold(amount);
 		this.getRelationship(from).recieveGold(amount);
 	}

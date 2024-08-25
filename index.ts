@@ -1,7 +1,7 @@
-import _ from 'lodash';
+import _, {max} from 'lodash';
 import { Game, deal } from './Game';
 import path from 'path';
-import { PersistentTail } from './PersistentTail';
+import {CsvLine, PersistentTail, PersistentTurnGroup} from './PersistentTail';
 import blessed from 'blessed';
 import os from 'os';
 
@@ -29,9 +29,10 @@ async function main() {
 
 	const tradeDealsLog = new PersistentTail(likelyLogLocation + path.sep + 'DiplomacyDeals.log');
 	const gameCoreLog = new PersistentTail(likelyLogLocation + path.sep + 'GameCore.log');
+	const statsLog = new PersistentTurnGroup(likelyLogLocation + path.sep + 'Player_stats.csv');
 	
 	console.log(`tradeDealsLog, gameCoreLog ${tradeDealsLog.dirname}, ${gameCoreLog.dirname}` );
-	const game = initializeGame({tradeDealsLog: tradeDealsLog, gameCoreLog: gameCoreLog});
+	const game = initializeGame({tradeDealsLog: tradeDealsLog, gameCoreLog: gameCoreLog, statsLog: statsLog});
 
 	const reprintTableFn = () => {
 		table.setData(game.print());
@@ -52,14 +53,16 @@ async function main() {
 	game.registerNotifier(reprintTableFn);
 }
 
-function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: PersistentTail}): Game {
+function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: PersistentTail, statsLog: PersistentTurnGroup}): Game {
 	const game = new Game();
+	var roomSize = 0;
 	input.gameCoreLog.on((s: string) => {
 		if(s.indexOf('SlotStatus - Human') != -1) {
 			//'Line 410: [2690167.701] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human'
 			const parsing = _.split(s, ' ');
 			// find player parse next token as an integer because that's their slot. 
 			const playerPosition = parseInt(parsing[_.indexOf(parsing, 'Player')+1]);
+			roomSize = max([playerPosition, roomSize]) as number;
 			const civ = _.split(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1) as string, '_')[1];
 			const leader = _.join(_.slice(_.split(_.find(parsing, (y) => y.indexOf('LEADER') != -1) as string, '_'), 1), '_');
 			game.setPlayerName({slotNumber: playerPosition, name: civ});
@@ -86,6 +89,12 @@ function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: Pers
 			}
 		}
 	});
+
+	input.statsLog.players = roomSize;
+	input.statsLog.on((player: number, stats: CsvLine) => {
+		game.upsertGpt(player, stats.get("Game Turn") as number - 1, stats.get("YIELDS: GOLD") as number)
+	});
+
 	return game;
 }
 
