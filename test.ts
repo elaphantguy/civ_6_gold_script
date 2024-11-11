@@ -55,17 +55,34 @@ function interestTestCase() {
 		turn: 1
 	});
 	game.doDeal({
-		from: 0,
-		to: 1,
+		from: 2,
+		to: 3,
+		amount: 1,
+		duration: 0,
+		turn: 2
+	});
+	console.log('test case to run one turn of GPT');
+	var trues = [];
+	trues.push(game.players[0].summedRelationship.sent == 10);
+	trues.push(game.players[0].summedRelationship.recieved == 0);
+	trues.push(game.players[1].summedRelationship.recieved == 10);
+	trues.push(game.players[1].summedRelationship.sent == 0);
+	
+	console.log(game.players[0].summedRelationship);
+	console.log(trues);
+
+	game.doDeal({
+		from: 2,
+		to: 3,
 		amount: 1,
 		duration: 0,
 		turn: 6
 	});
 	console.log(game.gptDeals);
   var trues = [];
-	trues.push(game.players[0].summedRelationship.sent == 51);
+	trues.push(game.players[0].summedRelationship.sent == 50);
 	trues.push(game.players[0].summedRelationship.recieved == 0);
-	trues.push(game.players[1].summedRelationship.recieved == 51);
+	trues.push(game.players[1].summedRelationship.recieved == 50);
 	trues.push(game.players[1].summedRelationship.sent == 0);
 
 	
@@ -78,4 +95,6 @@ function interestTestCase() {
 	console.log(trues);
 
 }
+
+
 interestTestCase();

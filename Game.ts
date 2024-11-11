@@ -21,14 +21,14 @@ const colorValue = (value: number) => {
 
 export class Game {
 	players: {[name: number]: Player};
-	turnSnaps: {[number: number]: {[name: number]: PlayerSnap}};
+	rawCivToPlayers: {[rawCiv: string]: Player};
 	latestTurn: number;
 	deals: deal[];
 	gptDeals: deal[];
 	listeningFns: (() => void)[];
 	constructor() {
-		this.turnSnaps = [];
 		this.players = {};
+		this.rawCivToPlayers = {};
 		this.latestTurn = 1;
 		this.deals = [];
 		this.gptDeals = [];
@@ -51,56 +51,54 @@ export class Game {
 			['sent adj.'], 
 			['recieved'], 
 			['recieved adj.'], 
+			// [% Given / Taken from team] EX one guy is giving away everything, while everyone else takes 100% -20% -60% -20%
+			// % over-gpt the % of resources used / given above natural GPT E.G turn 20 took 500 gold -400% (took 4 players worth of gold)
+			['gpt'], 
 			['net'], 
-			['net adj.'], 
+			['net adj.'],
 			[`Turn ${curTurn}`]];
-		_.forEach(this.turnSnaps[curTurn], (player, key) => {
-			const sent = player.net.sent;
-			const sentWithInterest = _.floor(player.net.sentWithInterest);
-			const recieved = player.net.recieved;
-			const recievedWithInterest = _.floor(player.net.recievedWithInterest);
-			const net = player.net.net();
-			const netWithIntrest = _.floor(player.net.netWithIntrest());
-			var i = 0;
-			ret[i++].push(`${player.net.sentLuxes}`);
-			ret[i++].push(`${player.net.recievedLuxes}`);
-			ret[i++].push(`${colorValue(player.net.sentLuxes - player.net.recievedLuxes)}`);
-			ret[i++].push(`${sent}`);
-			ret[i++].push(`${sentWithInterest}`);
-			ret[i++].push(`${recieved}`);
-			ret[i++].push(`${recievedWithInterest}`);
-			ret[i++].push(`${colorValue(net)}`);
-			ret[i++].push(`${colorValue(netWithIntrest)}`);
-			ret[i++].push(this.players[key as any].name);
+		_.forEach(this.players, (p, key) => {
+			const turn = p.turns[curTurn];
+			if (turn && turn.net) {
+				const sent = turn.net.sent;
+				const sentWithInterest = _.floor(turn.net.sentWithInterest);
+				const recieved = turn.net.recieved;
+				const recievedWithInterest = _.floor(turn.net.recievedWithInterest);
+				const net = turn.net.net();
+				const netWithIntrest = _.floor(turn.net.netWithIntrest());
+				var i = 0;
+				ret[i++].push(`${turn.net.sentLuxes}`);
+				ret[i++].push(`${turn.net.recievedLuxes}`);
+				ret[i++].push(`${colorValue(turn.net.sentLuxes - turn.net.recievedLuxes)}`);
+				ret[i++].push(`${sent}`);
+				ret[i++].push(`${sentWithInterest}`);
+				ret[i++].push(`${recieved}`);
+				ret[i++].push(`${recievedWithInterest}`);
+				ret[i++].push(`${colorValue(turn.stats.gpt)}`);
+				ret[i++].push(`${colorValue(net)}`);
+				ret[i++].push(`${colorValue(netWithIntrest)}`);
+				ret[i++].push(this.players[key as any].name);
+			}
 		});
 		return ret;
 	}
 
-	lineDataNet(turnNumber?: number) : {title: string, x: string[], y: number[]}[] {
-		const curTurn = turnNumber ? turnNumber: this.latestTurn;
-		// initialize the line datums for each player. 
-		var nets = _.mapValues(this.players, (player) => {
-			return {
-				title: player.name,
-				x: [] as string[],
-				y: [] as number[]
-			}
-		});
-
-		for(var i = 1; i < curTurn; i++) {
-			_.forEach(this.turnSnaps[curTurn], (player, key) => {
-				nets[key as any].x.push('t' + i);
-				nets[key as any].y.push(player.net.net());
-			});
-		}
-		return _.values(nets);
-	}
-
-	setPlayerName(input: {slotNumber: number, name: string}) {
+	setPlayerName(input: {slotNumber: number, name: string, rawCiv: string}) {
+		this.getPlayer(input.slotNumber).setRawCiv(input.rawCiv);
+		this.rawCivToPlayers[input.rawCiv] = this.getPlayer(input.slotNumber);
 		this.getPlayer(input.slotNumber).setName(`[${input.slotNumber}] ${input.name}`);
 		_.forEach(this.listeningFns, fn => {
 			fn();
 		});
+	}
+
+	recordGpt(input: {rawCiv: string, gpt: number, turnNumber: number}) {
+		const player = this.rawCivToPlayers[input.rawCiv];
+		if (!player) {
+			// Very often the player won't exist because there are city states / initialization race conditions xd.
+			return;
+		}
+		player.recordStats({turnNumber: input.turnNumber, gpt: input.gpt});
 	}
 
 	newGame(latestTurn: number) {
@@ -125,17 +123,13 @@ export class Game {
 			this.newGame(deal.turn);
 		}
 		while (this.latestTurn < deal.turn) {
-			this.applyInterestTick();
+			this.applyInterestTick(this.latestTurn);
 			_.forEach(this.gptDeals, runningDeal => {
 				if (runningDeal.turn + runningDeal.duration > this.latestTurn) {
 					this.doSingleTurnDeal(runningDeal);
 				}
 			});
-			// add a turn to the snapshots. 
 			this.latestTurn+=1;
-			this.turnSnaps[this.latestTurn] = (_.mapValues(this.players, (value) => {
-				return new PlayerSnap(value.summedRelationship);
-			}));
 		}
 		this.deals.push(deal);
 		if (deal.duration > 0) {
@@ -157,16 +151,16 @@ export class Game {
 		this.getPlayer(deal.to).recieveMoney(deal.from, deal.amount);
 	}
 
-	applyInterestTick() {
+	applyInterestTick(turnNumber: number) {
 		_.forEach(this.players, player => {
-			player.applyInterestTick();
+			player.applyInterestTick(turnNumber);
 		});
 	}
 
 	// handles getting all the players by itself, does not fail but makes more players. 
 	getPlayer(index: number): Player {
 		if (!this.players[index]) {
-			this.players[index] = new Player(`${index}`);
+			this.players[index] = new Player(`${index}`, `${index}_RAW_CIV`);
 		}
 		return this.players[index];
 	}
@@ -220,32 +214,40 @@ export class RelationShip {
 	}
 }
 
-export class PlayerSnap {
-	net: RelationShip;
-	constructor(val: RelationShip) {
-		this.net = new RelationShip();
-		this.net.recieved = val.recieved;
-		this.net.recievedWithInterest = val.recievedWithInterest;
-		this.net.sent = val.sent;
-		this.net.sentWithInterest = val.sentWithInterest;
-		this.net.sentLuxes = val.sentLuxes;
-		this.net.recievedLuxes = val.recievedLuxes;
-	}
+class Turn {
+	net?: RelationShip;
+	stats: {gpt: number};
+	constructor() {
+		// default to 5 if it's bugged because it's the default GPT /shrug
+		this.stats = {gpt: 5};
+	};
 }
 
 export class Player {
+	
+	turns: {[turnNumber: number]: Turn};
+	// current turn
 	relationships: {[name:number]: RelationShip};
+	// current turn
 	summedRelationship: RelationShip;
 	name: string;
-	constructor(name: string) {
+	// used to merge various civ files together. 
+	rawCiv: string;
+	constructor(name: string, rawCiv : string) {
 		this.relationships = {};
 		this.name = name;
+		this.rawCiv = name;
 		this.summedRelationship = new RelationShip();
+		this.turns = [];
 	}
 	
 	clearDeals() {
 		this.relationships = {};
 		this.summedRelationship = new RelationShip();
+	}
+
+	setRawCiv(rawCiv: string) {
+		this.rawCiv = rawCiv;
 	}
 
 	setName(name: string) {
@@ -277,7 +279,28 @@ export class Player {
 		this.summedRelationship.recieveGold(amount);
 		this.getRelationship(from).recieveGold(amount);
 	}
-	applyInterestTick() {
+
+	recordStats(input: { turnNumber: number; gpt: number; }) {
+		if (!this.turns[input.turnNumber]) {
+			this.turns[input.turnNumber] = new Turn();
+		} 
+		this.turns[input.turnNumber].stats = {gpt: input.gpt};
+	}
+
+	// called once per turn =) ;
+	applyInterestTick(turnNumber: number) {
+		var net = new RelationShip();
+		net.recieved = this.summedRelationship.recieved;
+		net.recievedLuxes = this.summedRelationship.recievedLuxes;
+		net.recievedWithInterest = this.summedRelationship.recievedWithInterest;
+		net.sent = this.summedRelationship.sent;
+		net.sentLuxes = this.summedRelationship.sentLuxes;
+		net.sentWithInterest = this.summedRelationship.sentWithInterest;
+		if (!this.turns[turnNumber]) {
+			this.turns[turnNumber] = new Turn();
+		} 	
+		this.turns[turnNumber].net = net;
+
 		this.summedRelationship.applyInterestTick();
 		_.forEach(this.relationships, relationship => {
 			relationship.applyInterestTick();

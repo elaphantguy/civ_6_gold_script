@@ -3,19 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-	"bin": "index.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "tsc && node test.js",
     "start": "tsc && node index.js",
-		"package": "pkg  -t node16-win-x64 .",
-		"zip": "tar -a -cf elaphantguys_gold_script.zip elaphantguys_gold_script.exe",
-		"build-release": "tsc && npm run package && npm run zip"
-	},
-	"pkg": {
-		"assets": [
-				"node_modules/blessed/**/*"
-		]
-},
+    "package": "pkg  -t node16-win-x64 .",
+    "zip": "tar -a -cf elaphantguys_gold_script.zip elaphantguys_gold_script.exe",
+    "build-release": "tsc && npm run package && npm run zip"
+  },
+  "pkg": {
+    "assets": [
+      "node_modules/blessed/**/*"
+    ]
+  },
   "author": "elaphantguy",
   "license": "ISC",
   "devDependencies": {
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "blessed": "^0.1.81",
+    "fast-csv": "^5.0.2",
     "lodash": "^4.17.21",
     "pkg": "^5.8.1",
     "tail": "^2.2.6",
