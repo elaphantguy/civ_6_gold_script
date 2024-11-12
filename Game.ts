@@ -42,7 +42,10 @@ export class Game {
 	// returns a table of strings with headers for sent, recieved, interest, leader name. 
 	// contains markup for the table that we generate
 	print(turnNumber?: number): string[][] {
-		const curTurn = turnNumber ? turnNumber: this.latestTurn;
+		var curTurn = this.latestTurn - 1;
+		if (turnNumber !== undefined) {
+			curTurn = turnNumber;
+		}
 		var ret: string[][] = [
 			['luxes sent'],
 			['luxes recieved'],
@@ -53,28 +56,31 @@ export class Game {
 			['recieved adj.'], 
 			// [% Given / Taken from team] EX one guy is giving away everything, while everyone else takes 100% -20% -60% -20%
 			// % over-gpt the % of resources used / given above natural GPT E.G turn 20 took 500 gold -400% (took 4 players worth of gold)
-			['gpt'], 
+			['gpt'],
+			['gold to date'], 
 			['net'], 
 			['net adj.'],
 			[`Turn ${curTurn}`]];
 		_.forEach(this.players, (p, key) => {
 			const turn = p.turns[curTurn];
-			if (turn && turn.net) {
-				const sent = turn.net.sent;
-				const sentWithInterest = _.floor(turn.net.sentWithInterest);
-				const recieved = turn.net.recieved;
-				const recievedWithInterest = _.floor(turn.net.recievedWithInterest);
-				const net = turn.net.net();
-				const netWithIntrest = _.floor(turn.net.netWithIntrest());
+			if (turn) {
+				const toTeam = turn.net ?? new RelationShip();
+				const sent = toTeam.sent;
+				const sentWithInterest = _.floor(toTeam.sentWithInterest);
+				const recieved = toTeam.recieved;
+				const recievedWithInterest = _.floor(toTeam.recievedWithInterest);
+				const net = toTeam.net();
+				const netWithIntrest = _.floor(toTeam.netWithIntrest());
 				var i = 0;
-				ret[i++].push(`${turn.net.sentLuxes}`);
-				ret[i++].push(`${turn.net.recievedLuxes}`);
-				ret[i++].push(`${colorValue(turn.net.sentLuxes - turn.net.recievedLuxes)}`);
+				ret[i++].push(`${toTeam.sentLuxes}`);
+				ret[i++].push(`${toTeam.recievedLuxes}`);
+				ret[i++].push(`${colorValue(toTeam.sentLuxes - toTeam.recievedLuxes)}`);
 				ret[i++].push(`${sent}`);
 				ret[i++].push(`${sentWithInterest}`);
 				ret[i++].push(`${recieved}`);
 				ret[i++].push(`${recievedWithInterest}`);
 				ret[i++].push(`${colorValue(turn.stats.gpt)}`);
+				ret[i++].push(`${colorValue(turn.cumulativeGoldGenerated)}`);
 				ret[i++].push(`${colorValue(net)}`);
 				ret[i++].push(`${colorValue(netWithIntrest)}`);
 				ret[i++].push(this.players[key as any].name);
@@ -217,9 +223,11 @@ export class RelationShip {
 class Turn {
 	net?: RelationShip;
 	stats: {gpt: number};
+	cumulativeGoldGenerated: number;
 	constructor() {
 		// default to 5 if it's bugged because it's the default GPT /shrug
 		this.stats = {gpt: 5};
+		this.cumulativeGoldGenerated = 0;
 	};
 }
 
@@ -243,6 +251,7 @@ export class Player {
 	
 	clearDeals() {
 		this.relationships = {};
+		this.turns = {};
 		this.summedRelationship = new RelationShip();
 	}
 
@@ -285,6 +294,11 @@ export class Player {
 			this.turns[input.turnNumber] = new Turn();
 		} 
 		this.turns[input.turnNumber].stats = {gpt: input.gpt};
+		if (this.turns[input.turnNumber - 1]) {
+			this.turns[input.turnNumber].cumulativeGoldGenerated = this.turns[input.turnNumber - 1].cumulativeGoldGenerated + input.gpt;
+		} else {
+			this.turns[input.turnNumber].cumulativeGoldGenerated = input.gpt;
+		}
 	}
 
 	// called once per turn =) ;

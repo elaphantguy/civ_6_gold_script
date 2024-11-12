@@ -49,6 +49,7 @@ export class PersistentTail {
 					fn(line);
 				});
 			});
+			
 			return tail;
 		} catch(error) {
 			return undefined;

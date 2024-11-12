@@ -17,25 +17,23 @@ async function main() {
 	screen.key(['escape', 'q', 'C-c'], function(ch, key) {
 		return process.exit(0);
 	});
-	var table = blessed.table({tags: true});
+
+	var table = blessed.table({tags: true, shrink: true, top: 1});
+	var status = blessed.box({shrink: true, top: 0});
+
+	status.setContent('Not yet parsing');
 	screen.append(table);
+	screen.append(status);
 	screen.render();
 
 	const arrayToLogs = ['AppData', 'Local', 'Firaxis Games', "Sid Meier's Civilization VI", "Logs"];
 	const likelyLogLocation = _.join([os.homedir()].concat(arrayToLogs), path.sep);
-	// const likelyLogLocation = _.join([__dirname].concat('diplomacy_deals_test_2'), path.sep);
+	// const likelyLogLocation = 'test_logs';
 
-	console.log('reading log files.');
-
-	const tradeDealsLog = new PersistentTail(likelyLogLocation + path.sep + 'DiplomacyDeals.log');
-	const gameCoreLog = new PersistentTail(likelyLogLocation + path.sep + 'GameCore.log');
-	const playerStatsCsv = new PersistentTail(likelyLogLocation + path.sep + 'PlayerStats.csv');
-	// const tradeDealsLog = new PersistentTail('DiplomacyDealsTest2.log');
-	// const gameCoreLog = new PersistentTail('GameCoreTestingFile.txt');
-	// const playerStatsCsv = new PersistentTail('Player_StatsTest.csv');
-
-	console.log(`tradeDealsLog, gameCoreLog ${tradeDealsLog.dirname}, ${gameCoreLog.dirname}` );
-	const game = initializeGame({tradeDealsLog: tradeDealsLog, gameCoreLog: gameCoreLog, playerStatsCsv: playerStatsCsv});
+	console.log('Using log files from directory ' + likelyLogLocation);
+	const game = initializeGame({
+		logLocation: likelyLogLocation, 
+		status: status});
 
 	const reprintTableFn = () => {
 		table.setData(game.print());	
@@ -56,9 +54,16 @@ async function main() {
 	game.registerNotifier(reprintTableFn);
 }
 
-function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: PersistentTail, playerStatsCsv: PersistentTail}): Game {
+function initializeGame(input: {
+	logLocation: string,
+	status: blessed.Widgets.BoxElement
+}): Game {
 	const game = new Game();
-	input.gameCoreLog.on((s: string) => {
+	
+	const tradeDealsLog = new PersistentTail(input.logLocation + path.sep + 'DiplomacyDeals.log');
+	const gameCoreLog = new PersistentTail(input.logLocation + path.sep + 'GameCore.log');
+
+	gameCoreLog.on((s: string) => {
 		if(s.indexOf('SlotStatus - Human') != -1) {
 			//'Line 410: [2690167.701] Player 0: Civilization - CIVILIZATION_INCA (-1955030529)  Leader - LEADER_PACHACUTI (1425321953), - Level - CIVILIZATION_LEVEL_FULL_CIV, SlotStatus - Human'
 			const parsing = _.split(s, ' ');
@@ -68,11 +73,11 @@ function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: Pers
 			const civ = _.split(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1) as string, '_')[1];
 			const leader = _.join(_.slice(_.split(_.find(parsing, (y) => y.indexOf('LEADER') != -1) as string, '_'), 1), '_');
 			game.setPlayerName({slotNumber: playerPosition, name: civ, rawCiv: rawCiv as string});
-		}
+		} 
 	});
-	// setTimeout(() => console.log(civs), 2000);
+	
 	var turnNumber = 1;
-	input.tradeDealsLog.on((s: string) => {
+	tradeDealsLog.on((s: string) => {
 		if (s.indexOf('Turn') != -1) {
 			//Turn 1, Enacting Deal id 1002 for player 6 and 4
 			turnNumber = parseInt(_.split(_.split(s, ',')[0], ' ')[1]);
@@ -90,17 +95,22 @@ function initializeGame(input: {tradeDealsLog: PersistentTail, gameCoreLog: Pers
 				game.doLuxDeal(getLuxDealFromLine(s));
 			}
 		}
-
-		input.playerStatsCsv.on((s: string) => {
-			const stats = getStatsFromLine(s);
-			// TODO need some way to hang the program to wait for the players to exist, 
-			// if they don't exist we cannot record their GPT yet. 
-			game.recordGpt(stats);
-		});
-
 	});
 
-	input
+	// typically the program has completed grabbing everything in the log files in 3 seconds. 
+	// so at that point go back in and backfill the GPT. 
+	// GPT parsing depends upon civilization names being lined up with slot order
+	// which depends upon gamecore parsing being completed. 
+	setTimeout(() => {
+		const playerStatsCsv = new PersistentTail(input.logLocation + path.sep + 'Player_Stats.csv');
+		input.status.setContent('parsing GPT');
+		playerStatsCsv.on((s: string) => {
+			const stats = getStatsFromLine(s);
+			input.status.setContent('parsing GPT latest turn - ' + stats.turnNumber);
+			(input.status.parent as unknown as blessed.Widgets.Screen).render();
+			game.recordGpt(stats);
+		});
+	}, 1500);
 
 	return game;
 }
@@ -159,7 +169,7 @@ function getStatsFromLine(line: string): {turnNumber: number, rawCiv: string, gp
 	if (split[0].startsWith('Game')) {
 		return {turnNumber: 0, rawCiv: 'Haleykwrotethismessage', gpt: 9001};
 	}
-	const turnNumber = parseInt(split[0]);
+	const turnNumber = parseInt(split[0]) - 1;
 	const rawCiv = split[1];
 	const gpt = parseInt(split[16]);
 	return {turnNumber: turnNumber, rawCiv: rawCiv, gpt: gpt};
