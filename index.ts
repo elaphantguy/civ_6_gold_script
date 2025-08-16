@@ -8,6 +8,7 @@ import os from 'os';
 // screen.on('keypress', function(_, key) {
 // 	console.log(key.full);
 // });
+const CUSTOM_CIV_CREATOR_ALIASES = ['SUK', 'LIME'];
 
 var showingTurn: number = 1;
 var latestTurn: number = 1;
@@ -70,7 +71,12 @@ function initializeGame(input: {
 			// find player parse next token as an integer because that's their slot. 
 			const playerPosition = parseInt(parsing[_.indexOf(parsing, 'Player')+1]);
 			const rawCiv = _.trim(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1));
-			const civ = _.split(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1) as string, '_')[1];
+			var civ = 'UNKNOWN';
+			if (CUSTOM_CIV_CREATOR_ALIASES.filter(alias => rawCiv.indexOf(alias) !== -1).length > 0) {
+				civ = _.split(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1) as string, '_')[2];
+			} else {
+				civ = _.split(_.find(parsing, (y) => y.indexOf('CIVILIZATION') != -1) as string, '_')[1];
+			}
 			const leader = _.join(_.slice(_.split(_.find(parsing, (y) => y.indexOf('LEADER') != -1) as string, '_'), 1), '_');
 			game.setPlayerName({slotNumber: playerPosition, name: civ, rawCiv: rawCiv as string});
 		} 
@@ -103,10 +109,10 @@ function initializeGame(input: {
 	// which depends upon gamecore parsing being completed. 
 	setTimeout(() => {
 		const playerStatsCsv = new PersistentTail(input.logLocation + path.sep + 'Player_Stats.csv');
-		input.status.setContent('parsing GPT');
+		input.status.setContent('parsing stats file');
 		playerStatsCsv.on((s: string) => {
 			const stats = getStatsFromLine(s);
-			input.status.setContent('parsing GPT latest turn - ' + stats.turnNumber);
+			input.status.setContent('parsing stats file: latest turn - ' + stats.turnNumber);
 			(input.status.parent as unknown as blessed.Widgets.Screen).render();
 			game.recordGpt(stats);
 		});
@@ -158,6 +164,25 @@ function getDealFromLine(line: string): deal {
 	});
 	return {from: from, to: to, amount: amount, duration: duration, turn: -1};
 }
+
+// TODO FREE_CITIES is always last and we can use slot order for the remainder of civs
+// but if two civs are the same then they show up as uhh, the same name
+// so using name was completely pointless, and we can pivot that to use slot order and a counter
+// off of free_cities, the first civ was civ_england this game, slot 0, and then correct for rest of them
+// so... TODO fix that. 
+// 62, CIVILIZATION_FREE_CITIES, 0, 0, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+// 62, CIVILIZATION_ENGLAND, 6, 45, 24, 22, 23, 0, 0, 0, 86, 29, 73, 976, 97, 50, 118, 17, 162, 142
+// 62, CIVILIZATION_MAORI, 8, 59, 27, 22, 13, 0, 0, 1, 156, 32, 82, 435, 138, 57, 110, 24, 161, 216
+// 62, CIVILIZATION_ROME, 8, 71, 29, 24, 23, 0, 0, 1, 140, 50, 118, 386, 171, 134, 152, 50, 232, 238
+// 62, CIVILIZATION_FRANCE, 4, 30, 21, 22, 27, 0, 0, 0, 68, 22, 118, 195, 76, 74, 60, 5, 85, 101
+// 62, CIVILIZATION_CANADA, 8, 49, 20, 25, 5, 0, 0, 1, 136, 42, 213, 185, 78, 245, 131, 81, 160, 147
+// 62, CIVILIZATION_FRANCE, 6, 54, 25, 26, 23, 0, 0, 0, 115, 36, 50, 204, 112, 153, 127, 11, 158, 158
+// 62, CIVILIZATION_BRAZIL, 6, 56, 28, 21, 16, 0, 0, 1, 99, 22, 304, 201, 169, 77, 151, 9, 184, 193
+// 62, CIVILIZATION_ZULU, 7, 47, 23, 21, 8, 2, 0, 0, 107, 37, 70, 358, 98, 47, 42, 12, 150, 145
+// 62, CIVILIZATION_AMERICA, 8, 64, 22, 24, 7, 0, 0, 1, 141, 12, 53, 487, 134, 128, 77, 92, 168, 206
+// 62, CIVILIZATION_POLAND, 5, 41, 24, 23, 27, 0, 0, 1, 97, 47, 28, 518, 79, 98, 82, 173, 163, 137
+// 62, CIVILIZATION_ENGLAND, 10, 68, 30, 22, 8, 0, 0, 9, 129, 48, 228, 225, 172, 75, 226, 8, 253, 221
+// 62, CIVILIZATION_GERMANY, 6, 48, 25, 23, 14, 0, 0, 1, 102, 22, 118, 313, 90, 92, 106, 13, 203, 142
 
 function getStatsFromLine(line: string): {turnNumber: number, rawCiv: string, gpt: number} {
 	// All one line =)

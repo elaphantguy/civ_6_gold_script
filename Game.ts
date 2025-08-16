@@ -56,7 +56,7 @@ export class Game {
 			['recieved adj.'], 
 			// [% Given / Taken from team] EX one guy is giving away everything, while everyone else takes 100% -20% -60% -20%
 			// % over-gpt the % of resources used / given above natural GPT E.G turn 20 took 500 gold -400% (took 4 players worth of gold)
-			['gpt'],
+			['gpt (w/out expenses)'],
 			['gold to date'], 
 			['net'], 
 			['net adj.'],
@@ -93,9 +93,7 @@ export class Game {
 		this.getPlayer(input.slotNumber).setRawCiv(input.rawCiv);
 		this.rawCivToPlayers[input.rawCiv] = this.getPlayer(input.slotNumber);
 		this.getPlayer(input.slotNumber).setName(`[${input.slotNumber}] ${input.name}`);
-		_.forEach(this.listeningFns, fn => {
-			fn();
-		});
+		this.notifyFrontend();
 	}
 
 	recordGpt(input: {rawCiv: string, gpt: number, turnNumber: number}) {
@@ -105,6 +103,7 @@ export class Game {
 			return;
 		}
 		player.recordStats({turnNumber: input.turnNumber, gpt: input.gpt});
+		this.notifyFrontend();
 	}
 
 	newGame(latestTurn: number) {
