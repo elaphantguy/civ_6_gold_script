@@ -107,6 +107,10 @@ export class Game {
 	}
 
 	newGame(latestTurn: number) {
+		if (latestTurn > 5 ) {
+			// just loading to check the spawns 
+			return;
+		}
 		// the names are preserved because those are set async. 
 		// so just clear out the deals. 
 		_.forEach(this.players, player => {
