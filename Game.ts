@@ -96,14 +96,21 @@ export class Game {
 		this.notifyFrontend();
 	}
 
-	recordGpt(input: {rawCiv: string, gpt: number, turnNumber: number}) {
-		const player = this.rawCivToPlayers[input.rawCiv];
-		if (!player) {
+	isPlayer(rawCiv: string) {
+		const player = this.rawCivToPlayers[rawCiv];
+		return !!player;
+	}
+
+	recordGpt(input: {rawCiv: string, gpt: number, slotNumber: number, turnNumber: number}) {
+		if (!this.isPlayer(input.rawCiv)) {
 			// Very often the player won't exist because there are city states / initialization race conditions xd.
 			return;
 		}
-		player.recordStats({turnNumber: input.turnNumber, gpt: input.gpt});
-		this.notifyFrontend();
+		const player = this.players[input.slotNumber];
+		if (!!player) {	
+			player.recordStats({turnNumber: input.turnNumber, gpt: input.gpt});
+			this.notifyFrontend();
+		}
 	}
 
 	newGame(latestTurn: number) {

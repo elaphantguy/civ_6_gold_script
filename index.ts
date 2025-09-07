@@ -11,7 +11,33 @@ import os from 'os';
 const CUSTOM_CIV_CREATOR_ALIASES = ['SUK', 'LIME'];
 
 var showingTurn: number = 1;
-var latestTurn: number = 1;
+
+// helper class for getStatsFromLine so that we can refrence by slot order
+// effectively turns a for each loop into a for loop
+// but it still works like a listener
+class TurnLineCounter {
+	turnNumber: number;
+	slotNumber: number;
+	game: Game;
+	constructor(game: Game) {
+		this.turnNumber = 0;
+		this.slotNumber = 0;
+		this.game = game;
+		this.increment = this.increment.bind(this);
+	}
+
+	increment(turnNumber: number, rawCiv: string): number {
+		if (this.game.isPlayer(rawCiv)) {
+			if (turnNumber > this.turnNumber) {
+				this.turnNumber = turnNumber;
+				this.slotNumber = 0;
+			} else {
+				this.slotNumber+=1;
+			}
+		}
+		return this.slotNumber;
+	}
+}
 
 async function main() {
 	const screen = blessed.screen({  smartCSR: true	});
@@ -38,7 +64,6 @@ async function main() {
 
 	const reprintTableFn = () => {
 		table.setData(game.print());	
-		latestTurn = game.latestTurn;
 		showingTurn = game.latestTurn;
 		screen.render();
 	};
@@ -109,9 +134,10 @@ function initializeGame(input: {
 	// which depends upon gamecore parsing being completed. 
 	setTimeout(() => {
 		const playerStatsCsv = new PersistentTail(input.logLocation + path.sep + 'Player_Stats.csv');
+		const turnLineCounter = new TurnLineCounter(game); 
 		input.status.setContent('parsing stats file');
 		playerStatsCsv.on((s: string) => {
-			const stats = getStatsFromLine(s);
+			const stats = getStatsFromLine(s, turnLineCounter);
 			input.status.setContent('parsing stats file: latest turn - ' + stats.turnNumber);
 			(input.status.parent as unknown as blessed.Widgets.Screen).render();
 			game.recordGpt(stats);
@@ -184,7 +210,7 @@ function getDealFromLine(line: string): deal {
 // 62, CIVILIZATION_ENGLAND, 10, 68, 30, 22, 8, 0, 0, 9, 129, 48, 228, 225, 172, 75, 226, 8, 253, 221
 // 62, CIVILIZATION_GERMANY, 6, 48, 25, 23, 14, 0, 0, 1, 102, 22, 118, 313, 90, 92, 106, 13, 203, 142
 
-function getStatsFromLine(line: string): {turnNumber: number, rawCiv: string, gpt: number} {
+function getStatsFromLine(line: string, turnLineCounter: TurnLineCounter): {turnNumber: number, rawCiv: string, slotNumber: number, gpt: number} {
 	// All one line =)
 	// Game Turn, Player, Num Cities, Population, Techs, Civics, Land Units, corps, Armies, Naval Units, 
 	// TILES: Owned, Improved, 
@@ -192,12 +218,18 @@ function getStatsFromLine(line: string): {turnNumber: number, rawCiv: string, gp
 	// YIELDS: Science, Culture, Gold, Faith, Production, Food
 	const split = _.split(line, ', ');
 	if (split[0].startsWith('Game')) {
-		return {turnNumber: 0, rawCiv: 'Haleykwrotethismessage', gpt: 9001};
+		// haleyKwrotethismessage
+		return {turnNumber: 0, rawCiv: 'haleyKWroteThisMessage', slotNumber: 10000, gpt: 9001};
 	}
 	const turnNumber = parseInt(split[0]) - 1;
 	const rawCiv = split[1];
 	const gpt = parseInt(split[16]);
-	return {turnNumber: turnNumber, rawCiv: rawCiv, gpt: gpt};
+	return {
+		turnNumber: turnNumber, 
+		rawCiv: rawCiv, 
+		slotNumber: turnLineCounter.increment(turnNumber, rawCiv), 
+		gpt: gpt
+	};
 }
 
 main();
