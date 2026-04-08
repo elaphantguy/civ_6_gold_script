@@ -113,6 +113,11 @@ function initializeGame(input: {
 			//Turn 1, Enacting Deal id 1002 for player 6 and 4
 			turnNumber = parseInt(_.split(_.split(s, ',')[0], ' ')[1]);
 		} 
+		// line we are trying to hit
+		// , Enacting Deal Item ID 2, from player 1, to player 2, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
+
+		// line we dont want to hit 
+		// , Removing expired Deal Item ID 2, from player 1, to player 2, type Gold, subType 0 (), value type YIELD_GOLD, amount 5, duration 0
 		if (s.indexOf('YIELD_GOLD') != -1 && s.indexOf('Removing') === -1) {
 			var deal = getDealFromLine(s);
 			deal.turn = turnNumber;
