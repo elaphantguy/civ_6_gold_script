@@ -113,7 +113,7 @@ function initializeGame(input: {
 			//Turn 1, Enacting Deal id 1002 for player 6 and 4
 			turnNumber = parseInt(_.split(_.split(s, ',')[0], ' ')[1]);
 		} 
-		if (s.indexOf('YIELD_GOLD') != -1) {
+		if (s.indexOf('YIELD_GOLD') != -1 && s.indexOf('Removing') === -1) {
 			var deal = getDealFromLine(s);
 			deal.turn = turnNumber;
 			game.doDeal(deal);			
